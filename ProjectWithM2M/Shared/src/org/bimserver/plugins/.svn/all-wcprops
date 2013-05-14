@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/plugins
+END
+ModelHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2341/trunk/Shared/src/org/bimserver/plugins/ModelHelper.java
+END
+PluginType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PluginType.java
+END
+Reporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/Reporter.java
+END
+ProgressHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/ProgressHandler.java
+END
+PluginContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2336/trunk/Shared/src/org/bimserver/plugins/PluginContext.java
+END
+VirtualClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/VirtualClassLoader.java
+END
+PluginImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PluginImplementation.java
+END
+PhysicalJavaFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PhysicalJavaFileObject.java
+END
+PluginChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PluginChangeListener.java
+END
+PluginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2397/trunk/Shared/src/org/bimserver/plugins/PluginException.java
+END
+VirtualFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/VirtualFileManager.java
+END
+VoidReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/VoidReporter.java
+END
+NotificationsManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2380/trunk/Shared/src/org/bimserver/plugins/NotificationsManagerInterface.java
+END
+EclipseProjectPluginFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/EclipseProjectPluginFileManager.java
+END
+VirtualFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/VirtualFile.java
+END
+PluginConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2348/trunk/Shared/src/org/bimserver/plugins/PluginConfiguration.java
+END
+ResourceFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/ResourceFetcher.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2421/trunk/Shared/src/org/bimserver/plugins/PluginManager.java
+END
+PluginDescriptorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PluginDescriptorWriter.java
+END
+PluginDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/PluginDescriptor.java
+END
+IfcModelSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2325/trunk/Shared/src/org/bimserver/plugins/IfcModelSet.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2336/trunk/Shared/src/org/bimserver/plugins/Plugin.java
+END

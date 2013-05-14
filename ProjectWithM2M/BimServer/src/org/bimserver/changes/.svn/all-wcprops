@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes
+END
+SetReferenceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/SetReferenceChange.java
+END
+CreateObjectChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/CreateObjectChange.java
+END
+RemoveReferenceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/RemoveReferenceChange.java
+END
+AddAttributeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/AddAttributeChange.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/Change.java
+END
+SetAttributeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/SetAttributeChange.java
+END
+RemoveAttributeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/RemoveAttributeChange.java
+END
+SetWrappedAttributeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/SetWrappedAttributeChange.java
+END
+RemoveObjectChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/RemoveObjectChange.java
+END
+AddReferenceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/AddReferenceChange.java
+END
+RemoveAllReferencesChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/changes/RemoveAllReferencesChange.java
+END

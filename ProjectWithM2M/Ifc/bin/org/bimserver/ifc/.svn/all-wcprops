@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2473/trunk/Ifc/src/org/bimserver/ifc
+END
+IfcModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2473/trunk/Ifc/src/org/bimserver/ifc/IfcModel.java
+END
+IfcNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2208/trunk/Ifc/src/org/bimserver/ifc/IfcNormalizer.java
+END
+SchemaSimplifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2208/trunk/Ifc/src/org/bimserver/ifc/SchemaSimplifier.java
+END
+TracingGarbageCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Ifc/src/org/bimserver/ifc/TracingGarbageCollector.java
+END
+IfcSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2368/trunk/Ifc/src/org/bimserver/ifc/IfcSerializer.java
+END
+ReferenceCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2208/trunk/Ifc/src/org/bimserver/ifc/ReferenceCounter.java
+END
+IfcModelChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Ifc/src/org/bimserver/ifc/IfcModelChangeListener.java
+END

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;EditedIfcStepSerializer.java&apos; to &apos;M2M/src/model&apos;&#x0A;- Original project: &apos;IfcPlugins&apos;&#x0A;- Destination element: &apos;M2M/src/model&apos;&#x0A;- Original element: &apos;org.bimserver.ifc.step.serializer.EditedIfcStepSerializer.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=M2M/src&lt;model" element1="/src&lt;org.bimserver.ifc.step.serializer{EditedIfcStepSerializer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1366138591023" units="1" version="1.0"/>
+</session>

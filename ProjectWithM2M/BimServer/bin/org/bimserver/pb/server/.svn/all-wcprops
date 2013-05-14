@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/pb/server
+END
+ProtocolBuffersServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/pb/server/ProtocolBuffersServer.java
+END
+ServiceReflectiveRpcChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/pb/server/ServiceReflectiveRpcChannel.java
+END
+ProtocolBuffersConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/pb/server/ProtocolBuffersConnectionHandler.java
+END

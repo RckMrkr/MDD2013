@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators
+END
+SProjectNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SProjectNameComparator.java
+END
+SRevisionIdComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SRevisionIdComparator.java
+END
+SRevisionDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SRevisionDateComparator.java
+END
+SLogActionDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SLogActionDateComparator.java
+END
+SUserNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SUserNameComparator.java
+END
+SCheckoutDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/comparators/SCheckoutDateComparator.java
+END

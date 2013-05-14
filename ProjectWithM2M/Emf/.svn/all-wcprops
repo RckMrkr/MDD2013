@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2472/trunk/Emf
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2211/trunk/Emf/license.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2184/trunk/Emf/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/952/trunk/Emf/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1869/trunk/Emf/ivy.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1378/trunk/Emf/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1378/trunk/Emf/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1378/trunk/Emf/plugin.xml
+END

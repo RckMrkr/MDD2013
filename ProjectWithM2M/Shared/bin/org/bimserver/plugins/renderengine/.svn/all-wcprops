@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2418/trunk/Shared/src/org/bimserver/plugins/renderengine
+END
+RenderEngineClash.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineClash.java
+END
+IndexFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/IndexFormat.java
+END
+RenderEngineGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineGeometry.java
+END
+RenderEngineInstanceVisualisationProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineInstanceVisualisationProperties.java
+END
+RenderEnginePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEnginePlugin.java
+END
+RenderEngineException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2397/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineException.java
+END
+RenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2418/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngine.java
+END
+RenderEngineModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineModel.java
+END
+RenderEngineSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineSettings.java
+END
+RenderEngineInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineInstance.java
+END
+RenderEngineSurfaceProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/RenderEngineSurfaceProperties.java
+END
+Precision.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/renderengine/Precision.java
+END

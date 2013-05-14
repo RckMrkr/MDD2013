@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/database
+END
+KeyValueStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/KeyValueStore.java
+END
+ProgressHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/ProgressHandler.java
+END
+BimserverDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/BimserverDatabaseException.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2341/trunk/BimServer/src/org/bimserver/database/Database.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2375/trunk/BimServer/src/org/bimserver/database/Query.java
+END
+ObjectsToCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/ObjectsToCommit.java
+END
+DatabaseSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2385/trunk/BimServer/src/org/bimserver/database/DatabaseSession.java
+END
+BimserverLockConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/BimserverLockConflictException.java
+END
+Registry.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/Registry.java
+END
+ObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/ObjectIdentifier.java
+END
+SearchingRecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/SearchingRecordIterator.java
+END
+BimTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/BimTransaction.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/Record.java
+END
+ObjectsToDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/ObjectsToDelete.java
+END
+RecordIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/RecordIdentifier.java
+END
+UncheckedBimserverLockConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2427/trunk/BimServer/src/org/bimserver/database/UncheckedBimserverLockConflictException.java
+END
+RecordIdentifierPlusType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/RecordIdentifierPlusType.java
+END
+RecordSizeEstimater.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/RecordSizeEstimater.java
+END
+ClearProjectPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/ClearProjectPlan.java
+END
+RecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/RecordIterator.java
+END
+DatabaseRestartRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/DatabaseRestartRequiredException.java
+END
+ObjectCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2315/trunk/BimServer/src/org/bimserver/database/ObjectCache.java
+END
+BimDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2317/trunk/BimServer/src/org/bimserver/database/BimDatabase.java
+END
+PostCommitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/PostCommitAction.java
+END

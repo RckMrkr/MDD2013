@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions
+END
+Not.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/Not.java
+END
+LiteralCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/LiteralCondition.java
+END
+HasReferenceToCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/HasReferenceToCondition.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/Condition.java
+END
+IsOfTypeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/IsOfTypeCondition.java
+END
+AndCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/AndCondition.java
+END
+AttributeCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/AttributeCondition.java
+END
+HasReferenceToInCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/conditions/HasReferenceToInCondition.java
+END

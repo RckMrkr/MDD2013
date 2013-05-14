@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/database/migrations
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2313/trunk/BimServer/src/org/bimserver/database/migrations/Schema.java
+END
+InconsistentModelsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2313/trunk/BimServer/src/org/bimserver/database/migrations/InconsistentModelsException.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NotImplementedException.java
+END
+MigrationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/MigrationException.java
+END
+NewPackageChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NewPackageChange.java
+END
+NewReferenceChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NewReferenceChange.java
+END
+CodeMigrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/database/migrations/CodeMigrator.java
+END
+NewAttributeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NewAttributeChange.java
+END
+NewEnumChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NewEnumChange.java
+END
+Migrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2313/trunk/BimServer/src/org/bimserver/database/migrations/Migrator.java
+END
+SchemaChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2313/trunk/BimServer/src/org/bimserver/database/migrations/SchemaChecker.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/Change.java
+END
+NewClassChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/migrations/NewClassChange.java
+END
+SchemaCompareException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2427/trunk/BimServer/src/org/bimserver/database/migrations/SchemaCompareException.java
+END
+Migration.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2343/trunk/BimServer/src/org/bimserver/database/migrations/Migration.java
+END

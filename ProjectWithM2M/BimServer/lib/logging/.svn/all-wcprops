@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1389/trunk/BimServer/lib/logging
+END
+slf4j-log4j12-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1389/trunk/BimServer/lib/logging/slf4j-log4j12-1.6.2.jar
+END
+slf4j-api-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1389/trunk/BimServer/lib/logging/slf4j-api-1.6.2.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/533/trunk/BimServer/lib/logging/log4j-1.2.16.jar
+END

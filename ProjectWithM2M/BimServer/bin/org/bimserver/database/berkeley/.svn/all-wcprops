@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/database/berkeley
+END
+BerkeleySearchingRecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/BerkeleySearchingRecordIterator.java
+END
+BerkeleyRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/BerkeleyRecord.java
+END
+BerkeleyKeyValueStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/database/berkeley/BerkeleyKeyValueStore.java
+END
+DatabaseInitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/DatabaseInitException.java
+END
+BerkeleyTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/BerkeleyTransaction.java
+END
+BimserverConcurrentModificationDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/BimserverConcurrentModificationDatabaseException.java
+END
+BerkeleyRecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/berkeley/BerkeleyRecordIterator.java
+END

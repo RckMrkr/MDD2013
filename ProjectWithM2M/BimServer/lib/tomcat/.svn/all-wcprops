@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2161/trunk/BimServer/lib/tomcat
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2073/trunk/BimServer/lib/tomcat/tomcat-coyote.jar
+END
+tomcat-juli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2161/trunk/BimServer/lib/tomcat/tomcat-juli.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2074/trunk/BimServer/lib/tomcat/catalina.jar
+END
+tomcat-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2161/trunk/BimServer/lib/tomcat/tomcat-util.jar
+END

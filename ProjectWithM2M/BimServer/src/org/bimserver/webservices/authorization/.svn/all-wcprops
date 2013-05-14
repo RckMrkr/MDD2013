@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices/authorization
+END
+UserAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/authorization/UserAuthorization.java
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2273/trunk/BimServer/src/org/bimserver/webservices/authorization/Authorization.java
+END
+ExplicitRightsAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices/authorization/ExplicitRightsAuthorization.java
+END
+SystemAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2273/trunk/BimServer/src/org/bimserver/webservices/authorization/SystemAuthorization.java
+END
+AnonymousAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/authorization/AnonymousAuthorization.java
+END
+AdminAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/authorization/AdminAuthorization.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2427/trunk/BimServer/src/org/bimserver/webservices/authorization/AuthenticationException.java
+END

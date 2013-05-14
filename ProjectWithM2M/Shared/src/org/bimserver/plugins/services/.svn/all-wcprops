@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/plugins/services
+END
+ServicePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2421/trunk/Shared/src/org/bimserver/plugins/services/ServicePlugin.java
+END
+NewRevisionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/plugins/services/NewRevisionHandler.java
+END
+BimServerClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/plugins/services/BimServerClientException.java
+END
+BimServerClientInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/plugins/services/BimServerClientInterface.java
+END

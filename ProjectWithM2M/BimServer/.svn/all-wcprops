@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2473/trunk/BimServer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2441/trunk/BimServer/.classpath
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2208/trunk/BimServer/license.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/951/trunk/BimServer/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1869/trunk/BimServer/ivy.xml
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2319/trunk/BimServer/test.js
+END
+.jetproperties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/533/trunk/BimServer/.jetproperties
+END

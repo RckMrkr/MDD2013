@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2396/trunk/IfcPlugins/src/org/bimserver/serializers
+END
+JsonSerializerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2348/trunk/IfcPlugins/src/org/bimserver/serializers/JsonSerializerPlugin.java
+END
+JsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2396/trunk/IfcPlugins/src/org/bimserver/serializers/JsonSerializer.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2384/trunk/Shared/src/org/bimserver/plugins/serializers
+END
+EmfSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/serializers/EmfSerializer.java
+END
+ProjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/serializers/ProjectInfo.java
+END
+CacheStoringEmfSerializerDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/serializers/CacheStoringEmfSerializerDataSource.java
+END
+SerializerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2349/trunk/Shared/src/org/bimserver/plugins/serializers/SerializerPlugin.java
+END
+SerializerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/serializers/SerializerException.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2368/trunk/Shared/src/org/bimserver/plugins/serializers/Serializer.java
+END
+AbstractGeometrySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2384/trunk/Shared/src/org/bimserver/plugins/serializers/AbstractGeometrySerializer.java
+END
+Extends.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2384/trunk/Shared/src/org/bimserver/plugins/serializers/Extends.java
+END
+AbstractSerializerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2349/trunk/Shared/src/org/bimserver/plugins/serializers/AbstractSerializerPlugin.java
+END
+EmfSerializerDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2325/trunk/Shared/src/org/bimserver/plugins/serializers/EmfSerializerDataSource.java
+END

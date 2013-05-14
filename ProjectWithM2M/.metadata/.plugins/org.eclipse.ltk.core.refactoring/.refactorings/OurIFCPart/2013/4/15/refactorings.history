@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;OurIFCPart&apos;&#x0A;- Original project: &apos;OurIFCPart&apos;&#x0A;- Original elements:&#x0A;     OurIFCPart/src/ifc&#x0A;     OurIFCPart/src/ifc.impl&#x0A;     OurIFCPart/src/ifc.util&#x0A;- Delete subpackages" description="Delete elements" element1="/src&lt;ifc.util" element2="/src&lt;ifc.impl" element3="/src&lt;ifc" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1365715460613" subPackages="true" version="1.0"/>
+</session>

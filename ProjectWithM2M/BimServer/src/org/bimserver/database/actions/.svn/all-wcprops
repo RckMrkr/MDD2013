@@ -1,0 +1,887 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/database/actions
+END
+GetRevisionSummaryDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetRevisionSummaryDatabaseAction.java
+END
+AddRenderEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/AddRenderEngineDatabaseAction.java
+END
+GetModelCompareByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetModelCompareByIdDatabaseAction.java
+END
+SetServerSettingDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/SetServerSettingDatabaseAction.java
+END
+DeleteInternalServiceDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteInternalServiceDatabaseAction.java
+END
+GetAllRenderEnginesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/GetAllRenderEnginesDatabaseAction.java
+END
+GetExtendedDataSchemaByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetExtendedDataSchemaByIdDatabaseAction.java
+END
+CreateBaseProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2323/trunk/BimServer/src/org/bimserver/database/actions/CreateBaseProjectDatabaseAction.java
+END
+GetDatabaseInformationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetDatabaseInformationAction.java
+END
+CompareDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2340/trunk/BimServer/src/org/bimserver/database/actions/CompareDatabaseAction.java
+END
+GetAllRevisionsOfProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetAllRevisionsOfProjectDatabaseAction.java
+END
+GetByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetByIdDatabaseAction.java
+END
+AbstractDownloadDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/database/actions/AbstractDownloadDatabaseAction.java
+END
+GetAllCheckoutsOfProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2308/trunk/BimServer/src/org/bimserver/database/actions/GetAllCheckoutsOfProjectDatabaseAction.java
+END
+UpdateQueryEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateQueryEngineDatabaseAction.java
+END
+GetAvailableClassesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetAvailableClassesDatabaseAction.java
+END
+GetAllDeserializersDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllDeserializersDatabaseAction.java
+END
+CommitTransactionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/database/actions/CommitTransactionDatabaseAction.java
+END
+GetModelMergerByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetModelMergerByNameDatabaseAction.java
+END
+GetModelCompareByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetModelCompareByNameDatabaseAction.java
+END
+GetQueryEngineByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetQueryEngineByIdDatabaseAction.java
+END
+UndeleteUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UndeleteUserDatabaseAction.java
+END
+GetLogsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetLogsDatabaseAction.java
+END
+UpdateProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateProjectDatabaseAction.java
+END
+GetDeserializerByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetDeserializerByNameDatabaseAction.java
+END
+UpdateDeserializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateDeserializerDatabaseAction.java
+END
+GetAllExtendedDataSchemasDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetAllExtendedDataSchemasDatabaseAction.java
+END
+AddUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2378/trunk/BimServer/src/org/bimserver/database/actions/AddUserDatabaseAction.java
+END
+GetQueryEngineByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetQueryEngineByNameDatabaseAction.java
+END
+AddDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/AddDatabaseAction.java
+END
+SetUserSettingDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2338/trunk/BimServer/src/org/bimserver/database/actions/SetUserSettingDatabaseAction.java
+END
+DeleteModelCompareDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteModelCompareDatabaseAction.java
+END
+SetPluginSettingsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/SetPluginSettingsDatabaseAction.java
+END
+GenericCheckinDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2325/trunk/BimServer/src/org/bimserver/database/actions/GenericCheckinDatabaseAction.java
+END
+GetAvailableClassesInRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAvailableClassesInRevisionDatabaseAction.java
+END
+CheckoutDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/CheckoutDatabaseAction.java
+END
+GetObjectIDMByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetObjectIDMByIdDatabaseAction.java
+END
+GetModelMergerByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetModelMergerByIdDatabaseAction.java
+END
+AddModelMergerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddModelMergerDatabaseAction.java
+END
+GetCheckoutWarningsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetCheckoutWarningsDatabaseAction.java
+END
+GetAllNonAuthorizedProjectsOfUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllNonAuthorizedProjectsOfUserDatabaseAction.java
+END
+RequestPasswordChangeDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2308/trunk/BimServer/src/org/bimserver/database/actions/RequestPasswordChangeDatabaseAction.java
+END
+AddSerializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/AddSerializerDatabaseAction.java
+END
+GetAllCheckoutsOfRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetAllCheckoutsOfRevisionDatabaseAction.java
+END
+ChangeUserTypeDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/ChangeUserTypeDatabaseAction.java
+END
+AddUserToExtendedDataSchemaDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddUserToExtendedDataSchemaDatabaseAction.java
+END
+GetAllUsersDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllUsersDatabaseAction.java
+END
+GetDeserializerByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetDeserializerByIdDatabaseAction.java
+END
+DeleteSerializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteSerializerDatabaseAction.java
+END
+DownloadByGuidsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadByGuidsDatabaseAction.java
+END
+GetAllReadableProjectsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllReadableProjectsDatabaseAction.java
+END
+AbstractGetByFieldDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/AbstractGetByFieldDatabaseAction.java
+END
+GetExtendedDataByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetExtendedDataByIdDatabaseAction.java
+END
+AddServiceToProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddServiceToProjectDatabaseAction.java
+END
+CheckinDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2387/trunk/BimServer/src/org/bimserver/database/actions/CheckinDatabaseAction.java
+END
+GetAllQueryEnginesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllQueryEnginesDatabaseAction.java
+END
+ChangePasswordDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/ChangePasswordDatabaseAction.java
+END
+UpdateModelCompareDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateModelCompareDatabaseAction.java
+END
+GetAllObjectIDMsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllObjectIDMsDatabaseAction.java
+END
+GetRenderEngineByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/GetRenderEngineByIdDatabaseAction.java
+END
+GetCheckinWarningsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetCheckinWarningsDatabaseAction.java
+END
+AbstractBranchDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/AbstractBranchDatabaseAction.java
+END
+AddExtendedDataSchemaDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddExtendedDataSchemaDatabaseAction.java
+END
+DownloadByNamesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadByNamesDatabaseAction.java
+END
+AddDeserializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddDeserializerDatabaseAction.java
+END
+UndeleteProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UndeleteProjectDatabaseAction.java
+END
+GetRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetRevisionDatabaseAction.java
+END
+BranchToExistingProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/BranchToExistingProjectDatabaseAction.java
+END
+GetDataObjectByGuidDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetDataObjectByGuidDatabaseAction.java
+END
+GetSerializerByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetSerializerByNameDatabaseAction.java
+END
+UpdateSerializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/UpdateSerializerDatabaseAction.java
+END
+GetProjectsOfUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetProjectsOfUserDatabaseAction.java
+END
+AddLocalServiceToProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddLocalServiceToProjectDatabaseAction.java
+END
+GetOidByGuidDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetOidByGuidDatabaseAction.java
+END
+UserHasCheckinRightsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UserHasCheckinRightsDatabaseAction.java
+END
+DeleteModelMergerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteModelMergerDatabaseAction.java
+END
+SetupServerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/SetupServerDatabaseAction.java
+END
+GetDataObjectByOidDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2385/trunk/BimServer/src/org/bimserver/database/actions/GetDataObjectByOidDatabaseAction.java
+END
+DeleteRenderEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/DeleteRenderEngineDatabaseAction.java
+END
+CountDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/CountDatabaseAction.java
+END
+GetUserByUoidDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetUserByUoidDatabaseAction.java
+END
+ServerSettingsSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/ServerSettingsSetter.java
+END
+GetObjectIDMByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetObjectIDMByNameDatabaseAction.java
+END
+AddExtendedDataToProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/AddExtendedDataToProjectDatabaseAction.java
+END
+GetSerializerByContentTypeDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2349/trunk/BimServer/src/org/bimserver/database/actions/GetSerializerByContentTypeDatabaseAction.java
+END
+BranchToNewProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/BranchToNewProjectDatabaseAction.java
+END
+GetAllRevisionsByUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllRevisionsByUserDatabaseAction.java
+END
+AddQueryEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddQueryEngineDatabaseAction.java
+END
+UpdateGeoTagDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/UpdateGeoTagDatabaseAction.java
+END
+AddProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2378/trunk/BimServer/src/org/bimserver/database/actions/AddProjectDatabaseAction.java
+END
+GetDataObjectsByTypeDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetDataObjectsByTypeDatabaseAction.java
+END
+AddModelCompareDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddModelCompareDatabaseAction.java
+END
+GetLastRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetLastRevisionDatabaseAction.java
+END
+GetProjectsByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetProjectsByNameDatabaseAction.java
+END
+DownloadByTypesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadByTypesDatabaseAction.java
+END
+ValidateUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/ValidateUserDatabaseAction.java
+END
+AutologinDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/database/actions/AutologinDatabaseAction.java
+END
+DeleteUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/DeleteUserDatabaseAction.java
+END
+DeleteDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteDatabaseAction.java
+END
+SetServerSettingsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/SetServerSettingsDatabaseAction.java
+END
+UserSettingsSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UserSettingsSetter.java
+END
+UpdateModelMergerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateModelMergerDatabaseAction.java
+END
+AddInternalServiceDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddInternalServiceDatabaseAction.java
+END
+DownloadDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadDatabaseAction.java
+END
+BimDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2387/trunk/BimServer/src/org/bimserver/database/actions/BimDatabaseAction.java
+END
+GetAllDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllDatabaseAction.java
+END
+UpdateRenderEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/UpdateRenderEngineDatabaseAction.java
+END
+RemoveUserFromExtendedDataSchemaDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/RemoveUserFromExtendedDataSchemaDatabaseAction.java
+END
+DownloadCompareDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2346/trunk/BimServer/src/org/bimserver/database/actions/DownloadCompareDatabaseAction.java
+END
+AddUserToProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/AddUserToProjectDatabaseAction.java
+END
+DownloadProjectsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadProjectsDatabaseAction.java
+END
+GetAllProjectsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2273/trunk/BimServer/src/org/bimserver/database/actions/GetAllProjectsDatabaseAction.java
+END
+DeleteObjectIDMDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteObjectIDMDatabaseAction.java
+END
+GetExtendedDataSchemaByNamespaceDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetExtendedDataSchemaByNamespaceDatabaseAction.java
+END
+DeleteServiceDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteServiceDatabaseAction.java
+END
+UploadFileDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UploadFileDatabaseAction.java
+END
+AddExtendedDataToRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/AddExtendedDataToRevisionDatabaseAction.java
+END
+GetAllSerializersDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllSerializersDatabaseAction.java
+END
+UserHasRightsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UserHasRightsDatabaseAction.java
+END
+UpdateRevisionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateRevisionDatabaseAction.java
+END
+GetSubProjectsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetSubProjectsDatabaseAction.java
+END
+GetAllAuthorizedUsersOfProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetAllAuthorizedUsersOfProjectDatabaseAction.java
+END
+AbstractGetByConditionDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AbstractGetByConditionDatabaseAction.java
+END
+SetRevisionTagDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/SetRevisionTagDatabaseAction.java
+END
+LoginDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/database/actions/LoginDatabaseAction.java
+END
+GetUserByUserNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetUserByUserNameDatabaseAction.java
+END
+GetSerializerByPluginClassNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2314/trunk/BimServer/src/org/bimserver/database/actions/GetSerializerByPluginClassNameDatabaseAction.java
+END
+GetProjectByPoidDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetProjectByPoidDatabaseAction.java
+END
+GetAllModelMergersDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllModelMergersDatabaseAction.java
+END
+DeleteQueryEngineDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteQueryEngineDatabaseAction.java
+END
+GetAllNonAuthorizedUsersOfProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllNonAuthorizedUsersOfProjectDatabaseAction.java
+END
+DownloadByOidsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/DownloadByOidsDatabaseAction.java
+END
+GetSerializerByIdDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetSerializerByIdDatabaseAction.java
+END
+UpdateDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateDatabaseAction.java
+END
+GetDataObjectsDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/database/actions/GetDataObjectsDatabaseAction.java
+END
+GetAllModelComparesDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllModelComparesDatabaseAction.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/ProgressListener.java
+END
+GetAllServicesOfProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/GetAllServicesOfProjectDatabaseAction.java
+END
+DeleteProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/DeleteProjectDatabaseAction.java
+END
+DownloadQueryDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2340/trunk/BimServer/src/org/bimserver/database/actions/DownloadQueryDatabaseAction.java
+END
+GetRenderEngineByNameDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2368/trunk/BimServer/src/org/bimserver/database/actions/GetRenderEngineByNameDatabaseAction.java
+END
+UpdateObjectIDMDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/actions/UpdateObjectIDMDatabaseAction.java
+END
+DeleteDeserializerDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/DeleteDeserializerDatabaseAction.java
+END
+GetGeoTagDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetGeoTagDatabaseAction.java
+END
+RemoveUserFromProjectDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2221/trunk/BimServer/src/org/bimserver/database/actions/RemoveUserFromProjectDatabaseAction.java
+END
+AddObjectIDMDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/AddObjectIDMDatabaseAction.java
+END
+GetAllCheckoutsByUserDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2233/trunk/BimServer/src/org/bimserver/database/actions/GetAllCheckoutsByUserDatabaseAction.java
+END

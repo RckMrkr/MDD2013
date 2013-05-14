@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/longaction
+END
+LongCheckinAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/longaction/LongCheckinAction.java
+END
+LongCheckoutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/longaction/LongCheckoutAction.java
+END
+LongDownloadAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2457/trunk/BimServer/src/org/bimserver/longaction/LongDownloadAction.java
+END
+LongActionKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/longaction/LongActionKey.java
+END
+LongActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/longaction/LongActionManager.java
+END
+CannotBeScheduledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/longaction/CannotBeScheduledException.java
+END
+LongCheckinActionKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/longaction/LongCheckinActionKey.java
+END
+DownloadParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2344/trunk/BimServer/src/org/bimserver/longaction/DownloadParameters.java
+END
+LongBranchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2382/trunk/BimServer/src/org/bimserver/longaction/LongBranchAction.java
+END
+LongDownloadOrCheckoutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2457/trunk/BimServer/src/org/bimserver/longaction/LongDownloadOrCheckoutAction.java
+END
+LongAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/longaction/LongAction.java
+END

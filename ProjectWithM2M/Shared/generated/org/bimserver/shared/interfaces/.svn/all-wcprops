@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2473/trunk/Shared/generated/org/bimserver/shared/interfaces
+END
+NotificationInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2421/trunk/Shared/generated/org/bimserver/shared/interfaces/NotificationInterfaceAdaptor.java
+END
+MetaInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2421/trunk/Shared/generated/org/bimserver/shared/interfaces/MetaInterfaceAdaptor.java
+END
+AdminInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2470/trunk/Shared/generated/org/bimserver/shared/interfaces/AdminInterfaceAdaptor.java
+END
+RegistryInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2447/trunk/Shared/generated/org/bimserver/shared/interfaces/RegistryInterfaceAdaptor.java
+END
+LowLevelInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2439/trunk/Shared/generated/org/bimserver/shared/interfaces/LowLevelInterfaceAdaptor.java
+END
+RemoteServiceInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2421/trunk/Shared/generated/org/bimserver/shared/interfaces/RemoteServiceInterfaceAdaptor.java
+END
+PluginInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2450/trunk/Shared/generated/org/bimserver/shared/interfaces/PluginInterfaceAdaptor.java
+END
+ServiceInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2450/trunk/Shared/generated/org/bimserver/shared/interfaces/ServiceInterfaceAdaptor.java
+END
+SettingsInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2471/trunk/Shared/generated/org/bimserver/shared/interfaces/SettingsInterfaceAdaptor.java
+END
+AuthInterfaceAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2473/trunk/Shared/generated/org/bimserver/shared/interfaces/AuthInterfaceAdaptor.java
+END

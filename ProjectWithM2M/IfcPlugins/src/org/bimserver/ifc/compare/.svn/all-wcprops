@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2341/trunk/IfcPlugins/src/org/bimserver/ifc/compare
+END
+GuidBasedModelCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2341/trunk/IfcPlugins/src/org/bimserver/ifc/compare/GuidBasedModelCompare.java
+END
+NameBasedModelComparePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2340/trunk/IfcPlugins/src/org/bimserver/ifc/compare/NameBasedModelComparePlugin.java
+END
+NameBasedModelCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2208/trunk/IfcPlugins/src/org/bimserver/ifc/compare/NameBasedModelCompare.java
+END
+AbstractModelCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2341/trunk/IfcPlugins/src/org/bimserver/ifc/compare/AbstractModelCompare.java
+END
+GuidBasedModelComparePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2340/trunk/IfcPlugins/src/org/bimserver/ifc/compare/GuidBasedModelComparePlugin.java
+END

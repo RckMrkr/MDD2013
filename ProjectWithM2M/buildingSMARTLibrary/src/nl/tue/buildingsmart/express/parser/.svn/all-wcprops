@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser
+END
+Express2SDAI.g
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/Express2SDAI.g
+END
+Express2DictWalker.smap
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/Express2DictWalker.smap
+END
+Express2DictWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/Express2DictWalker.java
+END
+ExpressSchemaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/ExpressSchemaParser.java
+END
+SchemaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/SchemaLoader.java
+END
+Express2DictWalkerTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/Express2DictWalkerTokenTypes.txt
+END
+ExpressParserTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/ExpressParserTokenTypes.txt
+END
+Express2DictWalkerTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/express/parser/Express2DictWalkerTokenTypes.java
+END

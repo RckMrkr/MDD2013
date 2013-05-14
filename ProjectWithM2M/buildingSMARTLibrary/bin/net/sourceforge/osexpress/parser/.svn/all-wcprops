@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser
+END
+ExternalId.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExternalId.java
+END
+ExpressParser.smap
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressParser.smap
+END
+ExpressParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressParser.java
+END
+ExpressLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressLexer.smap
+END
+EnumerationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/EnumerationType.java
+END
+ExpressLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressLexer.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/Scope.java
+END
+ExpressParserTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressParserTokenTypes.txt
+END
+ExpressParserTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/ExpressParserTokenTypes.java
+END
+EasyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/EasyParser.java
+END
+express.g
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1916/trunk/buildingSMARTLibrary/src/net/sourceforge/osexpress/parser/express.g
+END

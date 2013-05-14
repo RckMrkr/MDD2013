@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/meta
+END
+SParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2380/trunk/Shared/src/org/bimserver/shared/meta/SParameter.java
+END
+SService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/meta/SService.java
+END
+SMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2421/trunk/Shared/src/org/bimserver/shared/meta/SMethod.java
+END
+SServicesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2428/trunk/Shared/src/org/bimserver/shared/meta/SServicesMap.java
+END
+SField.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/meta/SField.java
+END
+SDataBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/meta/SDataBase.java
+END
+SConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/meta/SConstructor.java
+END
+SClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2384/trunk/Shared/src/org/bimserver/shared/meta/SClass.java
+END
+SBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/shared/meta/SBase.java
+END

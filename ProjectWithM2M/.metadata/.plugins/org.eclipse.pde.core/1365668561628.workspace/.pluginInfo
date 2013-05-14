@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="1072" localization="plugin" name="%pluginName" project="Emf" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1071" localization="OSGI-INF/l10n/bundle" name="org.xtext.example.mydsl" project="M2M" provider="My Company"/>
+	<bundle bundleID="1073" localization="plugin" name="%pluginName" project="OurPartialIFC" provider="%providerName">
+		<library name="."/>
+	</bundle>
+</map>

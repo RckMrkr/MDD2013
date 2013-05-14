@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf
+END
+spring-context-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-context-3.0.7.RELEASE.jar
+END
+httpasyncclient-4.0-beta3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/httpasyncclient-4.0-beta3.jar
+END
+jaxb-xjc-2.2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/jaxb-xjc-2.2.6.jar
+END
+spring-beans-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-beans-3.0.7.RELEASE.jar
+END
+xmlbeans-2.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xmlbeans-2.6.0.jar
+END
+cxf-xjc-dv-2.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-xjc-dv-2.6.1.jar
+END
+httpcore-nio-4.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/httpcore-nio-4.2.2.jar
+END
+cxf-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-2.7.3.jar
+END
+xml-resolver-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xml-resolver-1.2.jar
+END
+xsdlib-2010.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xsdlib-2010.1.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/aopalliance-1.0.jar
+END
+FastInfoset-1.2.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/FastInfoset-1.2.12.jar
+END
+xmlschema-core-2.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xmlschema-core-2.0.3.jar
+END
+msv-core-2011.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/msv-core-2011.1.jar
+END
+joda-time-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/joda-time-1.6.2.jar
+END
+opensaml-2.5.1-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/opensaml-2.5.1-1.jar
+END
+spring-expression-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-expression-3.0.7.RELEASE.jar
+END
+wss4j-1.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/wss4j-1.6.9.jar
+END
+cxf-manifest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-manifest.jar
+END
+cxf-xjc-runtime-2.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-xjc-runtime-2.6.1.jar
+END
+httpmime-4.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/httpmime-4.2.2.jar
+END
+xmltooling-1.3.2-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xmltooling-1.3.2-1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/commons-logging-1.1.1.jar
+END
+xmlsec-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/xmlsec-1.5.3.jar
+END
+jaxb-api-2.2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/jaxb-api-2.2.6.jar
+END
+jettison-1.3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/jettison-1.3.3.jar
+END
+geronimo-javamail_1.4_spec-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/geronimo-javamail_1.4_spec-1.7.1.jar
+END
+cxf-services-ws-discovery-service-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-services-ws-discovery-service-2.7.3.jar
+END
+spring-aop-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-aop-3.0.7.RELEASE.jar
+END
+velocity-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/velocity-1.7.jar
+END
+geronimo-jaxws_2.2_spec-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/geronimo-jaxws_2.2_spec-1.1.jar
+END
+stax2-api-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/stax2-api-3.1.1.jar
+END
+ehcache-core-2.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/ehcache-core-2.5.1.jar
+END
+cxf-services-ws-discovery-api-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-services-ws-discovery-api-2.7.3.jar
+END
+wsdl4j-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/wsdl4j-1.6.2.jar
+END
+openws-1.4.2-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/openws-1.4.2-1.jar
+END
+spring-jms-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-jms-3.0.7.RELEASE.jar
+END
+cxf-xjc-bug671-2.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-xjc-bug671-2.6.1.jar
+END
+spring-tx-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-tx-3.0.7.RELEASE.jar
+END
+oauth-20100527.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/oauth-20100527.jar
+END
+httpclient-4.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/httpclient-4.2.1.jar
+END
+cxf-xjc-boolean-2.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-xjc-boolean-2.6.1.jar
+END
+isorelax-20030108.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/isorelax-20030108.jar
+END
+javax.ws.rs-api-2.0-m10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/javax.ws.rs-api-2.0-m10.jar
+END
+js-1.7R2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/js-1.7R2.jar
+END
+jaxb-impl-2.2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/jaxb-impl-2.2.6.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/commons-collections-3.2.1.jar
+END
+cxf-xjc-ts-2.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-xjc-ts-2.6.1.jar
+END
+httpcore-4.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/httpcore-4.2.2.jar
+END
+woodstox-core-asl-4.1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/woodstox-core-asl-4.1.4.jar
+END
+cxf-services-sts-core-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-services-sts-core-2.7.3.jar
+END
+oauth-provider-20100527.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/oauth-provider-20100527.jar
+END
+mina-core-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/mina-core-2.0.5.jar
+END
+neethi-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/neethi-3.0.2.jar
+END
+spring-core-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-core-3.0.7.RELEASE.jar
+END
+asm-3.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/asm-3.3.1.jar
+END
+cxf-services-wsn-api-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-services-wsn-api-2.7.3.jar
+END
+relaxngDatatype-20020414.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/relaxngDatatype-20020414.jar
+END
+commons-codec-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/commons-codec-1.7.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/antlr-2.7.7.jar
+END
+geronimo-jms_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/geronimo-jms_1.1_spec-1.1.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/commons-lang-2.6.jar
+END
+spring-web-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-web-3.0.7.RELEASE.jar
+END
+cxf-services-wsn-core-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/cxf-services-wsn-core-2.7.3.jar
+END
+spring-asm-3.0.7.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2441/trunk/BimServer/lib/cxf/spring-asm-3.0.7.RELEASE.jar
+END

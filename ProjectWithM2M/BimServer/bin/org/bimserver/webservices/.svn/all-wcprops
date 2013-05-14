@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices
+END
+LongTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2438/trunk/BimServer/src/org/bimserver/webservices/LongTransactionManager.java
+END
+PluginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2450/trunk/BimServer/src/org/bimserver/webservices/PluginServiceImpl.java
+END
+SPluginConfigurationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SPluginConfigurationComparator.java
+END
+NoTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2438/trunk/BimServer/src/org/bimserver/webservices/NoTransactionException.java
+END
+SettingsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/webservices/SettingsServiceImpl.java
+END
+SMigrationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SMigrationComparator.java
+END
+AuthServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices/AuthServiceImpl.java
+END
+LongTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2399/trunk/BimServer/src/org/bimserver/webservices/LongTransaction.java
+END
+NotificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2387/trunk/BimServer/src/org/bimserver/webservices/NotificationImpl.java
+END
+CustomInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2441/trunk/BimServer/src/org/bimserver/webservices/CustomInvoker.java
+END
+SPluginDescriptorComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SPluginDescriptorComparator.java
+END
+SRevisionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SRevisionComparator.java
+END
+SServiceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2382/trunk/BimServer/src/org/bimserver/webservices/SServiceComparator.java
+END
+RegistryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices/RegistryServiceImpl.java
+END
+GenericServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2447/trunk/BimServer/src/org/bimserver/webservices/GenericServiceImpl.java
+END
+SProjectComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SProjectComparator.java
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2473/trunk/BimServer/src/org/bimserver/webservices/ServiceImpl.java
+END
+PublicInterfaceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/webservices/PublicInterfaceFactory.java
+END
+SUserComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SUserComparator.java
+END
+MetaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/webservices/MetaServiceImpl.java
+END
+AdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2468/trunk/BimServer/src/org/bimserver/webservices/AdminServiceImpl.java
+END
+SLogComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/webservices/SLogComparator.java
+END
+LowLevelServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2439/trunk/BimServer/src/org/bimserver/webservices/LowLevelServiceImpl.java
+END
+ServiceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2450/trunk/BimServer/src/org/bimserver/webservices/ServiceMap.java
+END
+RemoteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2427/trunk/BimServer/src/org/bimserver/webservices/RemoteServiceImpl.java
+END

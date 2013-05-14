@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2472/trunk/IfcPlugins
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2208/trunk/IfcPlugins/license.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1457/trunk/IfcPlugins/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/978/trunk/IfcPlugins/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1869/trunk/IfcPlugins/ivy.xml
+END

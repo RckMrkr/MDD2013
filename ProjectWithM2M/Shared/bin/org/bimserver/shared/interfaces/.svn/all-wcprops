@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/shared/interfaces
+END
+PluginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2450/trunk/Shared/src/org/bimserver/shared/interfaces/PluginInterface.java
+END
+PublicInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2380/trunk/Shared/src/org/bimserver/shared/interfaces/PublicInterface.java
+END
+ServiceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/interfaces/ServiceInterface.java
+END
+SettingsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/interfaces/SettingsInterface.java
+END
+AuthInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2473/trunk/Shared/src/org/bimserver/shared/interfaces/AuthInterface.java
+END
+NotificationInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/interfaces/NotificationInterface.java
+END
+MetaInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/interfaces/MetaInterface.java
+END
+AdminInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2468/trunk/Shared/src/org/bimserver/shared/interfaces/AdminInterface.java
+END
+RegistryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2454/trunk/Shared/src/org/bimserver/shared/interfaces/RegistryInterface.java
+END
+LowLevelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/interfaces/LowLevelInterface.java
+END
+RemoteServiceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2447/trunk/Shared/src/org/bimserver/shared/interfaces/RemoteServiceInterface.java
+END

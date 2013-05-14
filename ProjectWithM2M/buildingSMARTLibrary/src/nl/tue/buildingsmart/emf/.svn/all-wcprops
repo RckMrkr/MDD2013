@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2398/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf
+END
+Express2EMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2355/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/Express2EMF.java
+END
+DerivedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/DerivedReader.java
+END
+Ifc2x3tc1.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/Ifc2x3tc1.java
+END
+Ifc2x4rc3.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2208/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/Ifc2x4rc3.java
+END
+SchemaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2398/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/SchemaLoader.java
+END
+BuildingSmartLibrarySchemaPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2340/trunk/buildingSMARTLibrary/src/nl/tue/buildingsmart/emf/BuildingSmartLibrarySchemaPlugin.java
+END

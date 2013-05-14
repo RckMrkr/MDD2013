@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2340/trunk/Shared/src/org/bimserver/plugins/schema
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/IntegerType.java
+END
+ConstructedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/ConstructedType.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/Schema.java
+END
+WhereRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/WhereRule.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/Attribute.java
+END
+SchemaDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/SchemaDefinition.java
+END
+TypeOrRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/TypeOrRule.java
+END
+SchemaPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2340/trunk/Shared/src/org/bimserver/plugins/schema/SchemaPlugin.java
+END
+SelectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/SelectType.java
+END
+ExplicitOrDerived.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/ExplicitOrDerived.java
+END
+EntityDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/EntityDefinition.java
+END
+RealType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/RealType.java
+END
+EnumerationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/EnumerationType.java
+END
+PopulationDependendBound.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/PopulationDependendBound.java
+END
+BagType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/BagType.java
+END
+SimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/SimpleType.java
+END
+InverseAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/InverseAttribute.java
+END
+DefinedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/DefinedType.java
+END
+ExplicitAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/ExplicitAttribute.java
+END
+DerivedAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/DerivedAttribute.java
+END
+Bound.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/Bound.java
+END
+StringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/StringType.java
+END
+BaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/BaseType.java
+END
+LogicalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/LogicalType.java
+END
+ListType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/ListType.java
+END
+SchemaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/SchemaException.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/ArrayType.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/BooleanType.java
+END
+UnderlyingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/UnderlyingType.java
+END
+IntegerBound.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/IntegerBound.java
+END
+BinaryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/BinaryType.java
+END
+NamedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/NamedType.java
+END
+DerivedAttribute2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/DerivedAttribute2.java
+END
+AggregationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/AggregationType.java
+END
+VariableSizeAggregationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/VariableSizeAggregationType.java
+END
+NumberType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/NumberType.java
+END
+SetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/schema/SetType.java
+END

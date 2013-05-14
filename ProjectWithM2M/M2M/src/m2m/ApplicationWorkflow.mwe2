@@ -1,0 +1,47 @@
+module m2m.ApplicationWorkflow
+
+import org.eclipse.emf.mwe.utils.*
+
+Workflow {
+	component = SetupBIMServer{
+		bimServerslot = "BIMServer"
+	}
+	
+	component = GetIFCFile{
+		importedFileNameSlot = "importedFile"
+	}
+	
+	component = ReadFile{
+		importedFileNameSlot = "importedFile"
+		bimServerslot        = "BIMServer"
+		dataSlot             = "IFCData"
+	}
+	
+	component = PopulateOwnModel{
+		importedDataSlot = "IFCData"
+		newDataModelSlot = "OurModelData"
+	}
+	
+	component = GetMissingInfo{
+		dataSlot      = "OurModelData"
+	}
+	 
+	component = PopulateBIMServerModel{
+		ifcDataSlot		   = "IFCData"
+		partialIFCDataSlot = "OurModelData"
+	}
+	
+	component = ExportFileName{
+		exportFileNameslot = "exportFile"
+	}
+	
+	component = WriteData{
+		exportFileNameslot = "exportFile"
+		dataSlot		   = "IFCData"
+		bimServerslot	   = "BIMServer"
+	}
+	
+	component = StopBIMServer{
+		bimServerslot = "BIMServer"
+	}
+}

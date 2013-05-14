@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2341/trunk/Shared/src/org/bimserver/plugins/objectidms
+END
+ObjectIDMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/objectidms/ObjectIDMException.java
+END
+ObjectIDMPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2340/trunk/Shared/src/org/bimserver/plugins/objectidms/ObjectIDMPlugin.java
+END
+ObjectIDM.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/objectidms/ObjectIDM.java
+END
+AbstractObjectIDM.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2341/trunk/Shared/src/org/bimserver/plugins/objectidms/AbstractObjectIDM.java
+END
+FieldIgnoreMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/objectidms/FieldIgnoreMap.java
+END
+StructuralFeatureIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/Shared/src/org/bimserver/plugins/objectidms/StructuralFeatureIdentifier.java
+END

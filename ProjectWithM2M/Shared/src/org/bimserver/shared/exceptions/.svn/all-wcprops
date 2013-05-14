@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/exceptions
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/exceptions/ServiceException.java
+END
+ErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/exceptions/ErrorCode.java
+END
+ServerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/exceptions/ServerException.java
+END
+UserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/exceptions/UserException.java
+END

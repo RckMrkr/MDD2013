@@ -1,0 +1,4667 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl
+END
+IfcEvaporativeCoolerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEvaporativeCoolerTypeImpl.java
+END
+IfcDistributionControlElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionControlElementTypeImpl.java
+END
+IfcCsgPrimitive3DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCsgPrimitive3DImpl.java
+END
+IfcStructuralCurveConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralCurveConnectionImpl.java
+END
+IfcRampFlightImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRampFlightImpl.java
+END
+IfcHeatingValueMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHeatingValueMeasureImpl.java
+END
+IfcFlowFittingTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowFittingTypeImpl.java
+END
+IfcAngularDimensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAngularDimensionImpl.java
+END
+IfcPermitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPermitImpl.java
+END
+IfcModulusOfSubgradeReactionMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcModulusOfSubgradeReactionMeasureImpl.java
+END
+IfcSectionReinforcementPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSectionReinforcementPropertiesImpl.java
+END
+IfcPropertyDependencyRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyDependencyRelationshipImpl.java
+END
+IfcFlowMeterTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowMeterTypeImpl.java
+END
+IfcPreDefinedPointMarkerSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedPointMarkerSymbolImpl.java
+END
+IfcSurfaceTextureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceTextureImpl.java
+END
+IfcSurfaceStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleImpl.java
+END
+IfcFastenerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFastenerTypeImpl.java
+END
+IfcCoveringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCoveringImpl.java
+END
+IfcRelAssignsToProcessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToProcessImpl.java
+END
+IfcAbsorbedDoseMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAbsorbedDoseMeasureImpl.java
+END
+IfcOutletTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOutletTypeImpl.java
+END
+IfcElementComponentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementComponentTypeImpl.java
+END
+IfcBooleanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBooleanImpl.java
+END
+IfcMoistureDiffusivityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMoistureDiffusivityMeasureImpl.java
+END
+IfcStairFlightImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStairFlightImpl.java
+END
+IfcTimeMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeMeasureImpl.java
+END
+IfcDynamicViscosityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDynamicViscosityMeasureImpl.java
+END
+IfcPropertySingleValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertySingleValueImpl.java
+END
+IfcDistributionFlowElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionFlowElementTypeImpl.java
+END
+IfcThermalConductivityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalConductivityMeasureImpl.java
+END
+IfcSystemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSystemImpl.java
+END
+IfcTimeSeriesScheduleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeSeriesScheduleImpl.java
+END
+IfcRelAssociatesLibraryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesLibraryImpl.java
+END
+IfcBoxAlignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoxAlignmentImpl.java
+END
+IfcRelAssignsToGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToGroupImpl.java
+END
+IfcSpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpaceImpl.java
+END
+IfcRegularTimeSeriesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRegularTimeSeriesImpl.java
+END
+IfcMaterialLayerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialLayerImpl.java
+END
+IfcPresentationStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPresentationStyleImpl.java
+END
+IfcIonConcentrationMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIonConcentrationMeasureImpl.java
+END
+IfcRelAssociatesProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesProfilePropertiesImpl.java
+END
+IfcObjectPlacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcObjectPlacementImpl.java
+END
+IfcWaterPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWaterPropertiesImpl.java
+END
+IfcFillAreaStyleHatchingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFillAreaStyleHatchingImpl.java
+END
+IfcCrewResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCrewResourceImpl.java
+END
+IfcStructuralSurfaceMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralSurfaceMemberImpl.java
+END
+IfcFlowTreatmentDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowTreatmentDeviceImpl.java
+END
+Ifc2x3tc1FactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/Ifc2x3tc1FactoryImpl.java
+END
+IfcCartesianTransformationOperator2DnonUniformImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianTransformationOperator2DnonUniformImpl.java
+END
+IfcTableRowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTableRowImpl.java
+END
+IfcOneDirectionRepeatFactorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOneDirectionRepeatFactorImpl.java
+END
+IfcAnnotationOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationOccurrenceImpl.java
+END
+IfcPositiveRatioMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPositiveRatioMeasureImpl.java
+END
+IfcFaceBasedSurfaceModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFaceBasedSurfaceModelImpl.java
+END
+IfcCostItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCostItemImpl.java
+END
+IfcPropertyEnumeratedValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyEnumeratedValueImpl.java
+END
+IfcDimensionCountImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionCountImpl.java
+END
+IfcOrientedEdgeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOrientedEdgeImpl.java
+END
+IfcWallImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWallImpl.java
+END
+IfcRelVoidsElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelVoidsElementImpl.java
+END
+IfcRelSpaceBoundaryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelSpaceBoundaryImpl.java
+END
+IfcCShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCShapeProfileDefImpl.java
+END
+IfcRectangleProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRectangleProfileDefImpl.java
+END
+IfcBooleanClippingResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBooleanClippingResultImpl.java
+END
+IfcLuminousIntensityDistributionMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLuminousIntensityDistributionMeasureImpl.java
+END
+IfcOrganizationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOrganizationImpl.java
+END
+IfcSurfaceStyleShadingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleShadingImpl.java
+END
+IfcStructuralPointReactionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralPointReactionImpl.java
+END
+IfcAnnotationSymbolOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationSymbolOccurrenceImpl.java
+END
+IfcOpeningElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOpeningElementImpl.java
+END
+IfcLogicalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLogicalImpl.java
+END
+IfcRevolvedAreaSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRevolvedAreaSolidImpl.java
+END
+IfcPhysicalQuantityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPhysicalQuantityImpl.java
+END
+IfcLinearMomentMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLinearMomentMeasureImpl.java
+END
+IfcVolumetricFlowRateMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVolumetricFlowRateMeasureImpl.java
+END
+IfcRelAssignsTasksImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsTasksImpl.java
+END
+IfcSlabImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSlabImpl.java
+END
+IfcStairImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStairImpl.java
+END
+IfcStructuralLoadSingleDisplacementDistortionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadSingleDisplacementDistortionImpl.java
+END
+IfcConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstraintImpl.java
+END
+IfcPresentationLayerWithStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPresentationLayerWithStyleImpl.java
+END
+IfcStructuralLoadTemperatureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadTemperatureImpl.java
+END
+IfcActionRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcActionRequestImpl.java
+END
+IfcOrganizationRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOrganizationRelationshipImpl.java
+END
+IfcElementAssemblyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementAssemblyImpl.java
+END
+IfcNullStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcNullStyleImpl.java
+END
+IfcClassificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationImpl.java
+END
+IfcCurveStyleFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveStyleFontImpl.java
+END
+IfcRelConnectsPortToElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsPortToElementImpl.java
+END
+IfcPreDefinedCurveFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedCurveFontImpl.java
+END
+IfcConstraintRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstraintRelationshipImpl.java
+END
+IfcTimeSeriesReferenceRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeSeriesReferenceRelationshipImpl.java
+END
+IfcCurrencyRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurrencyRelationshipImpl.java
+END
+IfcRelConnectsWithRealizingElementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsWithRealizingElementsImpl.java
+END
+IfcDiscreteAccessoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDiscreteAccessoryImpl.java
+END
+IfcProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProfileDefImpl.java
+END
+IfcSwitchingDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSwitchingDeviceTypeImpl.java
+END
+IfcStructuralLoadLinearForceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadLinearForceImpl.java
+END
+IfcDerivedUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDerivedUnitImpl.java
+END
+IfcRealImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRealImpl.java
+END
+IfcFrequencyMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFrequencyMeasureImpl.java
+END
+IfcCenterLineProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCenterLineProfileDefImpl.java
+END
+IfcSpatialStructureElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpatialStructureElementTypeImpl.java
+END
+IfcBlockImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBlockImpl.java
+END
+IfcModulusOfElasticityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcModulusOfElasticityMeasureImpl.java
+END
+IfcBuildingElementComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementComponentImpl.java
+END
+IfcStructuralReactionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralReactionImpl.java
+END
+IfcPropertyReferenceValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyReferenceValueImpl.java
+END
+IfcFillAreaStyleTilesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFillAreaStyleTilesImpl.java
+END
+IfcBuildingElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementImpl.java
+END
+IfcFaceSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFaceSurfaceImpl.java
+END
+IfcRelFlowControlElementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelFlowControlElementsImpl.java
+END
+IfcProductDefinitionShapeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProductDefinitionShapeImpl.java
+END
+IfcAnnotationFillAreaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationFillAreaImpl.java
+END
+IfcMechanicalFastenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMechanicalFastenerImpl.java
+END
+IfcVibrationIsolatorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVibrationIsolatorTypeImpl.java
+END
+IfcRelSchedulesCostItemsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelSchedulesCostItemsImpl.java
+END
+IfcDiscreteAccessoryTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDiscreteAccessoryTypeImpl.java
+END
+IfcEnergyConversionDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEnergyConversionDeviceTypeImpl.java
+END
+IfcTextStyleForDefinedFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextStyleForDefinedFontImpl.java
+END
+IfcSymbolStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSymbolStyleImpl.java
+END
+IfcStyledRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStyledRepresentationImpl.java
+END
+IfcVertexPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVertexPointImpl.java
+END
+IfcPreDefinedColourImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedColourImpl.java
+END
+IfcDimensionCalloutRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionCalloutRelationshipImpl.java
+END
+IfcIsothermalMoistureCapacityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIsothermalMoistureCapacityMeasureImpl.java
+END
+IfcShellBasedSurfaceModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcShellBasedSurfaceModelImpl.java
+END
+IfcStructuralLoadSingleDisplacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadSingleDisplacementImpl.java
+END
+IfcSoundPressureMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSoundPressureMeasureImpl.java
+END
+IfcFaceOuterBoundImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFaceOuterBoundImpl.java
+END
+IfcDimensionalExponentsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionalExponentsImpl.java
+END
+IfcBeamTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBeamTypeImpl.java
+END
+IfcRepresentationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRepresentationContextImpl.java
+END
+IfcVertexLoopImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVertexLoopImpl.java
+END
+IfcElectricApplianceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricApplianceTypeImpl.java
+END
+IfcBuildingElementProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementProxyImpl.java
+END
+IfcTwoDirectionRepeatFactorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTwoDirectionRepeatFactorImpl.java
+END
+IfcApprovalPropertyRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcApprovalPropertyRelationshipImpl.java
+END
+IfcMolecularWeightMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMolecularWeightMeasureImpl.java
+END
+IfcBoilerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoilerTypeImpl.java
+END
+IfcRelAssignsToProductImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToProductImpl.java
+END
+IfcEdgeFeatureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEdgeFeatureImpl.java
+END
+IfcPumpTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPumpTypeImpl.java
+END
+IfcUnitaryEquipmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcUnitaryEquipmentTypeImpl.java
+END
+IfcRelAssignsToResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToResourceImpl.java
+END
+IfcRelInteractionRequirementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelInteractionRequirementsImpl.java
+END
+IfcVolumeMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVolumeMeasureImpl.java
+END
+IfcElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementImpl.java
+END
+IfcDistributionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionElementImpl.java
+END
+IfcDocumentReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDocumentReferenceImpl.java
+END
+IfcManifoldSolidBrepImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcManifoldSolidBrepImpl.java
+END
+IfcExternallyDefinedHatchStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExternallyDefinedHatchStyleImpl.java
+END
+IfcTankTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTankTypeImpl.java
+END
+IfcCircleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCircleImpl.java
+END
+IfcCompositeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCompositeProfileDefImpl.java
+END
+IfcFlowTerminalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowTerminalImpl.java
+END
+IfcProductRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProductRepresentationImpl.java
+END
+IfcTransformerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTransformerTypeImpl.java
+END
+IfcMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMemberImpl.java
+END
+IfcPlacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlacementImpl.java
+END
+IfcStructuralLoadImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadImpl.java
+END
+IfcTextFontNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextFontNameImpl.java
+END
+IfcForceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcForceMeasureImpl.java
+END
+IfcStructuralPointActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralPointActionImpl.java
+END
+IfcStructuralLoadStaticImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadStaticImpl.java
+END
+IfcWorkControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWorkControlImpl.java
+END
+IfcRootImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRootImpl.java
+END
+IfcCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveImpl.java
+END
+IfcDefinedSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDefinedSymbolImpl.java
+END
+IfcPreDefinedItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedItemImpl.java
+END
+IfcPileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPileImpl.java
+END
+IfcGeometricSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeometricSetImpl.java
+END
+IfcFlowFittingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowFittingImpl.java
+END
+IfcBuildingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingImpl.java
+END
+IfcThermalResistanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalResistanceMeasureImpl.java
+END
+IfcSectionModulusMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSectionModulusMeasureImpl.java
+END
+IfcWallTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWallTypeImpl.java
+END
+IfcProjectOrderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProjectOrderImpl.java
+END
+IfcStructuralPointConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralPointConnectionImpl.java
+END
+IfcWindowPanelPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWindowPanelPropertiesImpl.java
+END
+IfcCableCarrierFittingTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCableCarrierFittingTypeImpl.java
+END
+IfcChamferEdgeFeatureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcChamferEdgeFeatureImpl.java
+END
+IfcAxis2Placement3DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAxis2Placement3DImpl.java
+END
+IfcCalendarDateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCalendarDateImpl.java
+END
+IfcTypeObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTypeObjectImpl.java
+END
+Vector3fImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/Vector3fImpl.java
+END
+IfcGeneralMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeneralMaterialPropertiesImpl.java
+END
+IfcObjectiveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcObjectiveImpl.java
+END
+IfcConnectionGeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionGeometryImpl.java
+END
+IfcDistributionChamberElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionChamberElementImpl.java
+END
+IfcElementComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementComponentImpl.java
+END
+IfcConnectionPointEccentricityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionPointEccentricityImpl.java
+END
+IfcQuantityLengthImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityLengthImpl.java
+END
+IfcPropertyBoundedValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyBoundedValueImpl.java
+END
+IfcAmountOfSubstanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAmountOfSubstanceMeasureImpl.java
+END
+IfcSecondInMinuteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSecondInMinuteImpl.java
+END
+IfcNamedUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcNamedUnitImpl.java
+END
+IfcStructuralLoadGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadGroupImpl.java
+END
+IfcDuctSilencerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDuctSilencerTypeImpl.java
+END
+IfcQuantityCountImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityCountImpl.java
+END
+IfcCraneRailFShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCraneRailFShapeProfileDefImpl.java
+END
+IfcEquipmentStandardImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEquipmentStandardImpl.java
+END
+IfcRelConnectsPathElementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsPathElementsImpl.java
+END
+IfcReinforcingBarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReinforcingBarImpl.java
+END
+IfcModulusOfLinearSubgradeReactionMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcModulusOfLinearSubgradeReactionMeasureImpl.java
+END
+IfcFireSuppressionTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFireSuppressionTerminalTypeImpl.java
+END
+IfcClosedShellImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClosedShellImpl.java
+END
+IfcHeatFluxDensityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHeatFluxDensityMeasureImpl.java
+END
+IfcElectricGeneratorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricGeneratorTypeImpl.java
+END
+IfcRoofImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRoofImpl.java
+END
+IfcPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPersonImpl.java
+END
+IfcTextureCoordinateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextureCoordinateImpl.java
+END
+IfcStructuralSurfaceMemberVaryingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2344/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralSurfaceMemberVaryingImpl.java
+END
+IfcWarpingMomentMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWarpingMomentMeasureImpl.java
+END
+IfcGridPlacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGridPlacementImpl.java
+END
+IfcValveTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcValveTypeImpl.java
+END
+IfcArbitraryOpenProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcArbitraryOpenProfileDefImpl.java
+END
+IfcShapeModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcShapeModelImpl.java
+END
+IfcIlluminanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIlluminanceMeasureImpl.java
+END
+IfcMotorConnectionTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMotorConnectionTypeImpl.java
+END
+IfcRotationalMassMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRotationalMassMeasureImpl.java
+END
+IfcAnnotationSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationSurfaceImpl.java
+END
+IfcFontStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFontStyleImpl.java
+END
+IfcOpenShellImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOpenShellImpl.java
+END
+IfcTubeBundleTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTubeBundleTypeImpl.java
+END
+IfcRightCircularCylinderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRightCircularCylinderImpl.java
+END
+IfcShearModulusMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcShearModulusMeasureImpl.java
+END
+IfcDimensionCurveTerminatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionCurveTerminatorImpl.java
+END
+IfcSurfaceStyleLightingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleLightingImpl.java
+END
+IfcPreDefinedDimensionSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedDimensionSymbolImpl.java
+END
+IfcCartesianTransformationOperator2DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianTransformationOperator2DImpl.java
+END
+IfcStructuralSteelProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralSteelProfilePropertiesImpl.java
+END
+IfcCurveStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveStyleImpl.java
+END
+IfcMoveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMoveImpl.java
+END
+IfcBuildingElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementTypeImpl.java
+END
+IfcLibraryInformationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLibraryInformationImpl.java
+END
+ifc2x3tc1.ecore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/ifc2x3tc1.ecore
+END
+IfcBoundaryEdgeConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundaryEdgeConditionImpl.java
+END
+IfcCurveStyleFontAndScalingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveStyleFontAndScalingImpl.java
+END
+IfcGeometricRepresentationSubContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeometricRepresentationSubContextImpl.java
+END
+IfcRelDefinesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelDefinesImpl.java
+END
+IfcElectricalElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricalElementImpl.java
+END
+IfcSectionPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSectionPropertiesImpl.java
+END
+IfcOffsetCurve3DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOffsetCurve3DImpl.java
+END
+IfcStairFlightTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStairFlightTypeImpl.java
+END
+IfcChillerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcChillerTypeImpl.java
+END
+IfcSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceImpl.java
+END
+IfcRelDefinesByPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelDefinesByPropertiesImpl.java
+END
+IfcSpecularExponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpecularExponentImpl.java
+END
+IfcBoundaryNodeConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundaryNodeConditionImpl.java
+END
+IfcRelAssociatesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesImpl.java
+END
+IfcStructuralLinearActionVaryingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLinearActionVaryingImpl.java
+END
+IfcDescriptiveMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDescriptiveMeasureImpl.java
+END
+IfcRelAssociatesApprovalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesApprovalImpl.java
+END
+IfcCompositeCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCompositeCurveImpl.java
+END
+IfcMagneticFluxMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMagneticFluxMeasureImpl.java
+END
+IfcRelSequenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelSequenceImpl.java
+END
+IfcLightIntensityDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightIntensityDistributionImpl.java
+END
+IfcRelConnectsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsImpl.java
+END
+IfcRelConnectsWithEccentricityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsWithEccentricityImpl.java
+END
+IfcReinforcingMeshImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReinforcingMeshImpl.java
+END
+IfcTypeProductImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTypeProductImpl.java
+END
+IfcConversionBasedUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConversionBasedUnitImpl.java
+END
+IfcTextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextImpl.java
+END
+GeometryInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/GeometryInfoImpl.java
+END
+IfcBoundedCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundedCurveImpl.java
+END
+IfcSweptAreaSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSweptAreaSolidImpl.java
+END
+IfcLineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLineImpl.java
+END
+IfcTendonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTendonImpl.java
+END
+IfcRailingTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRailingTypeImpl.java
+END
+IfcRelCoversBldgElementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelCoversBldgElementsImpl.java
+END
+IfcZShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcZShapeProfileDefImpl.java
+END
+IfcTemperatureGradientMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTemperatureGradientMeasureImpl.java
+END
+IfcIntegerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIntegerImpl.java
+END
+IfcColumnTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcColumnTypeImpl.java
+END
+IfcRelAssignsToProjectOrderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToProjectOrderImpl.java
+END
+IfcVirtualElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVirtualElementImpl.java
+END
+IfcDimensionPairImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionPairImpl.java
+END
+IfcFlowInstrumentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowInstrumentTypeImpl.java
+END
+IfcHourInDayImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHourInDayImpl.java
+END
+IfcRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRepresentationImpl.java
+END
+IfcRelCoversSpacesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelCoversSpacesImpl.java
+END
+IfcRelaxationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelaxationImpl.java
+END
+IfcRelAssignsToActorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToActorImpl.java
+END
+IfcFuelPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFuelPropertiesImpl.java
+END
+IfcAirTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAirTerminalTypeImpl.java
+END
+IfcMemberTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMemberTypeImpl.java
+END
+IfcSIUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSIUnitImpl.java
+END
+IfcEnergyMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEnergyMeasureImpl.java
+END
+IfcAxis1PlacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAxis1PlacementImpl.java
+END
+IfcRotationalFrequencyMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRotationalFrequencyMeasureImpl.java
+END
+IfcLibraryReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLibraryReferenceImpl.java
+END
+IfcMetricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMetricImpl.java
+END
+IfcActuatorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcActuatorTypeImpl.java
+END
+IfcFurnishingElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFurnishingElementImpl.java
+END
+IfcLightSourceAmbientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourceAmbientImpl.java
+END
+IfcElementQuantityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementQuantityImpl.java
+END
+IfcSanitaryTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSanitaryTerminalTypeImpl.java
+END
+IfcBuildingElementPartImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementPartImpl.java
+END
+IfcTopologyRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTopologyRepresentationImpl.java
+END
+IfcRepresentationMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRepresentationMapImpl.java
+END
+IfcConstructionResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstructionResourceImpl.java
+END
+IfcThermalExpansionCoefficientMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalExpansionCoefficientMeasureImpl.java
+END
+IfcDoorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDoorImpl.java
+END
+IfcBeamImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBeamImpl.java
+END
+IfcFootingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFootingImpl.java
+END
+IfcFanTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFanTypeImpl.java
+END
+IfcTransportElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTransportElementImpl.java
+END
+IfcTextStyleWithBoxCharacteristicsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextStyleWithBoxCharacteristicsImpl.java
+END
+IfcFlowMovingDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowMovingDeviceImpl.java
+END
+IfcFluidFlowPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFluidFlowPropertiesImpl.java
+END
+IfcBoxedHalfSpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoxedHalfSpaceImpl.java
+END
+IfcSweptDiskSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSweptDiskSolidImpl.java
+END
+IfcProductsOfCombustionPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProductsOfCombustionPropertiesImpl.java
+END
+IfcCountMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCountMeasureImpl.java
+END
+IfcAnnotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationImpl.java
+END
+IfcRelAggregatesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAggregatesImpl.java
+END
+IfcConstraintAggregationRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstraintAggregationRelationshipImpl.java
+END
+IfcControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcControlImpl.java
+END
+IfcRelAssociatesMaterialImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesMaterialImpl.java
+END
+IfcWasteTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWasteTerminalTypeImpl.java
+END
+IfcFeatureElementAdditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFeatureElementAdditionImpl.java
+END
+IfcIrregularTimeSeriesValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIrregularTimeSeriesValueImpl.java
+END
+IfcDistributionPortImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionPortImpl.java
+END
+IfcPortImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPortImpl.java
+END
+IfcTextLiteralWithExtentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextLiteralWithExtentImpl.java
+END
+IfcFurnishingElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFurnishingElementTypeImpl.java
+END
+IfcLightSourcePositionalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourcePositionalImpl.java
+END
+IfcPointOnCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPointOnCurveImpl.java
+END
+IfcAppliedValueRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAppliedValueRelationshipImpl.java
+END
+IfcContextDependentMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcContextDependentMeasureImpl.java
+END
+IfcStructuralAnalysisModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralAnalysisModelImpl.java
+END
+IfcAirToAirHeatRecoveryTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAirToAirHeatRecoveryTypeImpl.java
+END
+IfcGeometricCurveSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeometricCurveSetImpl.java
+END
+IfcLightDistributionDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightDistributionDataImpl.java
+END
+GeometryDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/GeometryDataImpl.java
+END
+IfcSurfaceOfRevolutionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceOfRevolutionImpl.java
+END
+IfcTextStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextStyleImpl.java
+END
+IfcHeatExchangerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHeatExchangerTypeImpl.java
+END
+IfcTransportElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTransportElementTypeImpl.java
+END
+IfcSectionedSpineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSectionedSpineImpl.java
+END
+IfcElectricalBasePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricalBasePropertiesImpl.java
+END
+IfcDraughtingCalloutImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDraughtingCalloutImpl.java
+END
+IfcCondenserTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCondenserTypeImpl.java
+END
+IfcRailingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRailingImpl.java
+END
+IfcRelFillsElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelFillsElementImpl.java
+END
+IfcSpaceHeaterTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpaceHeaterTypeImpl.java
+END
+IfcCurveStyleFontPatternImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveStyleFontPatternImpl.java
+END
+IfcBoundaryConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundaryConditionImpl.java
+END
+IfcColumnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcColumnImpl.java
+END
+IfcLightSourceSpotImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourceSpotImpl.java
+END
+IfcStructuralConnectionConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralConnectionConditionImpl.java
+END
+Ifc2x3tc1PackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/Ifc2x3tc1PackageImpl.java
+END
+IfcDiameterDimensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDiameterDimensionImpl.java
+END
+IfcTorqueMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTorqueMeasureImpl.java
+END
+IfcConstructionProductResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstructionProductResourceImpl.java
+END
+IfcSystemFurnitureElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSystemFurnitureElementTypeImpl.java
+END
+IfcCostValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCostValueImpl.java
+END
+IfcExtrudedAreaSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExtrudedAreaSolidImpl.java
+END
+IfcYearNumberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcYearNumberImpl.java
+END
+IfcScheduleTimeControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcScheduleTimeControlImpl.java
+END
+IfcNormalisedRatioMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcNormalisedRatioMeasureImpl.java
+END
+IfcConstructionMaterialResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstructionMaterialResourceImpl.java
+END
+IfcHalfSpaceSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHalfSpaceSolidImpl.java
+END
+IfcEquipmentElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEquipmentElementImpl.java
+END
+IfcVirtualGridIntersectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVirtualGridIntersectionImpl.java
+END
+IfcDuctSegmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDuctSegmentTypeImpl.java
+END
+IfcPresentationStyleAssignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPresentationStyleAssignmentImpl.java
+END
+IfcOpticalMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOpticalMaterialPropertiesImpl.java
+END
+IfcCoilTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCoilTypeImpl.java
+END
+IfcDistributionControlElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionControlElementImpl.java
+END
+IfcPolylineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPolylineImpl.java
+END
+IfcCooledBeamTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCooledBeamTypeImpl.java
+END
+IfcParameterizedProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcParameterizedProfileDefImpl.java
+END
+IfcFlowSegmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowSegmentTypeImpl.java
+END
+IfcTextDecorationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextDecorationImpl.java
+END
+IfcGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGroupImpl.java
+END
+IfcApprovalActorRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcApprovalActorRelationshipImpl.java
+END
+IfcRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelationshipImpl.java
+END
+IfcImageTextureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcImageTextureImpl.java
+END
+IfcProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProjectImpl.java
+END
+IfcMonthInYearNumberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMonthInYearNumberImpl.java
+END
+IfcCsgSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCsgSolidImpl.java
+END
+IfcPostalAddressImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPostalAddressImpl.java
+END
+IfcUnitAssignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcUnitAssignmentImpl.java
+END
+IfcTextTransformationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextTransformationImpl.java
+END
+IfcSweptSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSweptSurfaceImpl.java
+END
+IfcCartesianTransformationOperatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianTransformationOperatorImpl.java
+END
+IfcEnvironmentalImpactValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEnvironmentalImpactValueImpl.java
+END
+IfcProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProfilePropertiesImpl.java
+END
+IfcFlowStorageDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowStorageDeviceTypeImpl.java
+END
+IfcLabelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLabelImpl.java
+END
+IfcFillAreaStyleTileSymbolWithStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFillAreaStyleTileSymbolWithStyleImpl.java
+END
+IfcDoorLiningPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDoorLiningPropertiesImpl.java
+END
+IfcCraneRailAShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCraneRailAShapeProfileDefImpl.java
+END
+IfcRotationalStiffnessMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRotationalStiffnessMeasureImpl.java
+END
+IfcSlabTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSlabTypeImpl.java
+END
+IfcPhysicalSimpleQuantityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPhysicalSimpleQuantityImpl.java
+END
+IfcFilterTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFilterTypeImpl.java
+END
+IfcPlaneAngleMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlaneAngleMeasureImpl.java
+END
+IfcArbitraryClosedProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcArbitraryClosedProfileDefImpl.java
+END
+IfcBoundedSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundedSurfaceImpl.java
+END
+IfcConstructionEquipmentResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstructionEquipmentResourceImpl.java
+END
+IfcMaterialClassificationRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialClassificationRelationshipImpl.java
+END
+IfcMaterialLayerSetUsageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialLayerSetUsageImpl.java
+END
+IfcRelAssociatesAppliedValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesAppliedValueImpl.java
+END
+IfcMonetaryUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMonetaryUnitImpl.java
+END
+IfcSimplePropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSimplePropertyImpl.java
+END
+IfcRoundedEdgeFeatureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRoundedEdgeFeatureImpl.java
+END
+IfcTextLiteralImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextLiteralImpl.java
+END
+IfcPlanarExtentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlanarExtentImpl.java
+END
+IfcThermalAdmittanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalAdmittanceMeasureImpl.java
+END
+IfcDaylightSavingHourImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDaylightSavingHourImpl.java
+END
+IfcWallStandardCaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWallStandardCaseImpl.java
+END
+IfcRelConnectsElementsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsElementsImpl.java
+END
+IfcRelOverridesPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelOverridesPropertiesImpl.java
+END
+IfcPipeFittingTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPipeFittingTypeImpl.java
+END
+IfcPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyImpl.java
+END
+IfcMinuteInHourImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMinuteInHourImpl.java
+END
+IfcElectricChargeMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricChargeMeasureImpl.java
+END
+IfcElectricalCircuitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricalCircuitImpl.java
+END
+IfcAreaMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAreaMeasureImpl.java
+END
+IfcExtendedMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExtendedMaterialPropertiesImpl.java
+END
+IfcCompoundPlaneAngleMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCompoundPlaneAngleMeasureImpl.java
+END
+IfcInductanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcInductanceMeasureImpl.java
+END
+IfcPreDefinedTextFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedTextFontImpl.java
+END
+IfcRectangularTrimmedSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRectangularTrimmedSurfaceImpl.java
+END
+IfcIntegerCountRateMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIntegerCountRateMeasureImpl.java
+END
+IfcLightSourceDirectionalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourceDirectionalImpl.java
+END
+IfcAsymmetricIShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAsymmetricIShapeProfileDefImpl.java
+END
+IfcPlateTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlateTypeImpl.java
+END
+IfcFlowMovingDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowMovingDeviceTypeImpl.java
+END
+IfcDoseEquivalentMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDoseEquivalentMeasureImpl.java
+END
+IfcLinearForceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLinearForceMeasureImpl.java
+END
+IfcTextureCoordinateGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextureCoordinateGeneratorImpl.java
+END
+IfcConnectionPortGeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionPortGeometryImpl.java
+END
+IfcVaporPermeabilityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVaporPermeabilityMeasureImpl.java
+END
+IfcGeometricRepresentationItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeometricRepresentationItemImpl.java
+END
+IfcLinearDimensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLinearDimensionImpl.java
+END
+IfcStructuralLoadSingleForceWarpingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadSingleForceWarpingImpl.java
+END
+IfcTendonAnchorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTendonAnchorImpl.java
+END
+IfcConstraintClassificationRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConstraintClassificationRelationshipImpl.java
+END
+IfcShapeRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcShapeRepresentationImpl.java
+END
+IfcPerformanceHistoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPerformanceHistoryImpl.java
+END
+IfcSpaceProgramImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpaceProgramImpl.java
+END
+IfcStructuralResultGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralResultGroupImpl.java
+END
+IfcMappedItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMappedItemImpl.java
+END
+IfcAddressImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAddressImpl.java
+END
+IfcMassMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMassMeasureImpl.java
+END
+IfcProjectionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProjectionElementImpl.java
+END
+IfcPressureMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPressureMeasureImpl.java
+END
+IfcDimensionCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionCurveImpl.java
+END
+IfcPreDefinedSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedSymbolImpl.java
+END
+IfcRadioActivityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRadioActivityMeasureImpl.java
+END
+IfcCurvatureMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurvatureMeasureImpl.java
+END
+IfcRelConnectsPortsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsPortsImpl.java
+END
+IfcIShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIShapeProfileDefImpl.java
+END
+IfcOrderActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOrderActionImpl.java
+END
+IfcBuildingElementProxyTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingElementProxyTypeImpl.java
+END
+IfcFlowControllerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowControllerTypeImpl.java
+END
+IfcProcessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProcessImpl.java
+END
+IfcIdentifierImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIdentifierImpl.java
+END
+IfcNumericMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcNumericMeasureImpl.java
+END
+IfcElectricHeaterTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricHeaterTypeImpl.java
+END
+IfcUShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcUShapeProfileDefImpl.java
+END
+IfcIrregularTimeSeriesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcIrregularTimeSeriesImpl.java
+END
+IfcConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConditionImpl.java
+END
+IfcStructuralItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralItemImpl.java
+END
+IfcThermalMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalMaterialPropertiesImpl.java
+END
+IfcMaterialListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialListImpl.java
+END
+IfcDistributionElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionElementTypeImpl.java
+END
+IfcElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementTypeImpl.java
+END
+IfcQuantityTimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityTimeImpl.java
+END
+IfcConnectedFaceSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectedFaceSetImpl.java
+END
+IfcBlobTextureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBlobTextureImpl.java
+END
+IfcRelAssociatesDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesDocumentImpl.java
+END
+IfcCircleProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCircleProfileDefImpl.java
+END
+IfcCartesianTransformationOperator3DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianTransformationOperator3DImpl.java
+END
+IfcStructuralPlanarActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralPlanarActionImpl.java
+END
+IfcFeatureElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFeatureElementImpl.java
+END
+IfcConditionCriterionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConditionCriterionImpl.java
+END
+IfcTrimmedCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTrimmedCurveImpl.java
+END
+IfcSensorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSensorTypeImpl.java
+END
+IfcOwnerHistoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOwnerHistoryImpl.java
+END
+IfcSpecularRoughnessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpecularRoughnessImpl.java
+END
+IfcFailureConnectionConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFailureConnectionConditionImpl.java
+END
+IfcLightFixtureTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightFixtureTypeImpl.java
+END
+IfcTrapeziumProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTrapeziumProfileDefImpl.java
+END
+IfcProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProxyImpl.java
+END
+IfcDistributionFlowElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionFlowElementImpl.java
+END
+IfcMomentOfInertiaMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMomentOfInertiaMeasureImpl.java
+END
+IfcReinforcementDefinitionPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReinforcementDefinitionPropertiesImpl.java
+END
+IfcHumidifierTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHumidifierTypeImpl.java
+END
+IfcSoundPowerMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSoundPowerMeasureImpl.java
+END
+IfcElectricCapacitanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricCapacitanceMeasureImpl.java
+END
+IfcActorRoleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcActorRoleImpl.java
+END
+IfcLuminousFluxMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLuminousFluxMeasureImpl.java
+END
+IfcDerivedUnitElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDerivedUnitElementImpl.java
+END
+IfcInventoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcInventoryImpl.java
+END
+IfcRampImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRampImpl.java
+END
+IfcServiceLifeFactorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcServiceLifeFactorImpl.java
+END
+IfcFillAreaStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFillAreaStyleImpl.java
+END
+IfcExternalReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExternalReferenceImpl.java
+END
+IfcWarpingConstantMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWarpingConstantMeasureImpl.java
+END
+IfcKinematicViscosityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcKinematicViscosityMeasureImpl.java
+END
+IfcJunctionBoxTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcJunctionBoxTypeImpl.java
+END
+IfcStructuralCurveMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralCurveMemberImpl.java
+END
+IfcPlateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlateImpl.java
+END
+IfcCurveBoundedPlaneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurveBoundedPlaneImpl.java
+END
+IfcGloballyUniqueIdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGloballyUniqueIdImpl.java
+END
+IfcTerminatorSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTerminatorSymbolImpl.java
+END
+IfcCoordinatedUniversalTimeOffsetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCoordinatedUniversalTimeOffsetImpl.java
+END
+IfcBooleanResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBooleanResultImpl.java
+END
+IfcBoundingBoxImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundingBoxImpl.java
+END
+IfcObjectDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcObjectDefinitionImpl.java
+END
+IfcDayInMonthNumberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDayInMonthNumberImpl.java
+END
+IfcFurnitureTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFurnitureTypeImpl.java
+END
+IfcRoundedRectangleProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRoundedRectangleProfileDefImpl.java
+END
+IfcHygroscopicMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcHygroscopicMaterialPropertiesImpl.java
+END
+IfcPlanarBoxImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlanarBoxImpl.java
+END
+IfcBoundaryNodeConditionWarpingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundaryNodeConditionWarpingImpl.java
+END
+IfcStructuralConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralConnectionImpl.java
+END
+IfcCableSegmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCableSegmentTypeImpl.java
+END
+IfcEllipseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEllipseImpl.java
+END
+IfcPreDefinedTerminatorSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPreDefinedTerminatorSymbolImpl.java
+END
+IfcThermalTransmittanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermalTransmittanceMeasureImpl.java
+END
+IfcZoneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcZoneImpl.java
+END
+IfcCartesianTransformationOperator3DnonUniformImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianTransformationOperator3DnonUniformImpl.java
+END
+IfcFontWeightImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFontWeightImpl.java
+END
+IfcMechanicalMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMechanicalMaterialPropertiesImpl.java
+END
+IfcRelConnectsStructuralElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsStructuralElementImpl.java
+END
+IfcDerivedProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDerivedProfileDefImpl.java
+END
+IfcStyledItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStyledItemImpl.java
+END
+IfcElectricConductanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricConductanceMeasureImpl.java
+END
+IfcCartesianPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCartesianPointImpl.java
+END
+IfcCostScheduleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCostScheduleImpl.java
+END
+IfcFaceBoundImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFaceBoundImpl.java
+END
+IfcPropertyTableValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyTableValueImpl.java
+END
+IfcMeasureWithUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMeasureWithUnitImpl.java
+END
+IfcSpaceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpaceTypeImpl.java
+END
+IfcSubContractResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSubContractResourceImpl.java
+END
+IfcPropertySetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertySetImpl.java
+END
+IfcShapeAspectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcShapeAspectImpl.java
+END
+IfcServiceLifeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcServiceLifeImpl.java
+END
+IfcArbitraryProfileDefWithVoidsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcArbitraryProfileDefWithVoidsImpl.java
+END
+IfcProjectOrderRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProjectOrderRecordImpl.java
+END
+IfcPresentationLayerAssignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPresentationLayerAssignmentImpl.java
+END
+IfcCableCarrierSegmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCableCarrierSegmentTypeImpl.java
+END
+IfcBuildingStoreyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBuildingStoreyImpl.java
+END
+IfcRelDecomposesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelDecomposesImpl.java
+END
+IfcFacetedBrepWithVoidsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFacetedBrepWithVoidsImpl.java
+END
+IfcTimeSeriesValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeSeriesValueImpl.java
+END
+IfcObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcObjectImpl.java
+END
+IfcDraughtingPreDefinedColourImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDraughtingPreDefinedColourImpl.java
+END
+IfcRelAssociatesConstraintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesConstraintImpl.java
+END
+IfcBoundaryFaceConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBoundaryFaceConditionImpl.java
+END
+IfcClassificationItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationItemImpl.java
+END
+IfcLinearVelocityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLinearVelocityMeasureImpl.java
+END
+IfcFlowStorageDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowStorageDeviceImpl.java
+END
+IfcFlowTreatmentDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowTreatmentDeviceTypeImpl.java
+END
+IfcParameterValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcParameterValueImpl.java
+END
+IfcPersonAndOrganizationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPersonAndOrganizationImpl.java
+END
+IfcSubedgeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSubedgeImpl.java
+END
+IfcElectricCurrentMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricCurrentMeasureImpl.java
+END
+IfcBezierCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBezierCurveImpl.java
+END
+IfcGridImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGridImpl.java
+END
+IfcAnnotationCurveOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationCurveOccurrenceImpl.java
+END
+IfcLightSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourceImpl.java
+END
+IfcSurfaceOfLinearExtrusionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceOfLinearExtrusionImpl.java
+END
+IfcRatioMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRatioMeasureImpl.java
+END
+IfcVectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVectorImpl.java
+END
+IfcSurfaceCurveSweptAreaSolidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceCurveSweptAreaSolidImpl.java
+END
+IfcStructuralPlanarActionVaryingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralPlanarActionVaryingImpl.java
+END
+IfcQuantityVolumeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityVolumeImpl.java
+END
+IfcDamperTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDamperTypeImpl.java
+END
+IfcRelAssignsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsImpl.java
+END
+IfcPropertyConstraintRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyConstraintRelationshipImpl.java
+END
+IfcOccupantImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOccupantImpl.java
+END
+IfcReferencesValueDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReferencesValueDocumentImpl.java
+END
+IfcElectricMotorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricMotorTypeImpl.java
+END
+IfcProductImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2384/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProductImpl.java
+END
+IfcDocumentInformationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDocumentInformationImpl.java
+END
+IfcLightSourceGoniometricImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLightSourceGoniometricImpl.java
+END
+IfcStructuralLoadSingleForceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadSingleForceImpl.java
+END
+IfcCompositeCurveSegmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCompositeCurveSegmentImpl.java
+END
+IfcAnnotationSurfaceOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationSurfaceOccurrenceImpl.java
+END
+IfcRadiusDimensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRadiusDimensionImpl.java
+END
+IfcCompressorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCompressorTypeImpl.java
+END
+IfcPlaneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlaneImpl.java
+END
+IfcPhysicalComplexQuantityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPhysicalComplexQuantityImpl.java
+END
+IfcSoundPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSoundPropertiesImpl.java
+END
+IfcDocumentInformationRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDocumentInformationRelationshipImpl.java
+END
+IfcRelProjectsElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelProjectsElementImpl.java
+END
+IfcMagneticFluxDensityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMagneticFluxDensityMeasureImpl.java
+END
+IfcPropertySetDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertySetDefinitionImpl.java
+END
+IfcAppliedValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAppliedValueImpl.java
+END
+IfcAccelerationMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAccelerationMeasureImpl.java
+END
+IfcTextStyleFontModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextStyleFontModelImpl.java
+END
+IfcProjectionCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProjectionCurveImpl.java
+END
+IfcConnectionPointGeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionPointGeometryImpl.java
+END
+IfcStructuralLoadPlanarForceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLoadPlanarForceImpl.java
+END
+IfcRelServicesBuildingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelServicesBuildingsImpl.java
+END
+IfcSolidModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSolidModelImpl.java
+END
+IfcLampTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLampTypeImpl.java
+END
+IfcRelReferencedInSpatialStructureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelReferencedInSpatialStructureImpl.java
+END
+IfcElectricVoltageMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricVoltageMeasureImpl.java
+END
+IfcColourRgbImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcColourRgbImpl.java
+END
+IfcStructuredDimensionCalloutImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuredDimensionCalloutImpl.java
+END
+IfcExternallyDefinedSurfaceStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExternallyDefinedSurfaceStyleImpl.java
+END
+IfcEdgeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEdgeImpl.java
+END
+IfcStructuralProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralProfilePropertiesImpl.java
+END
+IfcGeometricRepresentationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeometricRepresentationContextImpl.java
+END
+IfcLaborResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLaborResourceImpl.java
+END
+IfcActorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcActorImpl.java
+END
+IfcPositivePlaneAngleMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPositivePlaneAngleMeasureImpl.java
+END
+IfcCoveringTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCoveringTypeImpl.java
+END
+IfcStyleModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStyleModelImpl.java
+END
+IfcTextAlignmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextAlignmentImpl.java
+END
+IfcLocalPlacementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLocalPlacementImpl.java
+END
+IfcAnnotationFillAreaOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationFillAreaOccurrenceImpl.java
+END
+IfcDoorStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDoorStyleImpl.java
+END
+IfcQuantityWeightImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityWeightImpl.java
+END
+IfcPositiveLengthMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPositiveLengthMeasureImpl.java
+END
+IfcResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcResourceImpl.java
+END
+IfcPHMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPHMeasureImpl.java
+END
+IfcPathImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPathImpl.java
+END
+IfcEllipseProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEllipseProfileDefImpl.java
+END
+IfcTimeStampImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeStampImpl.java
+END
+IfcStackTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStackTerminalTypeImpl.java
+END
+IfcColourSpecificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcColourSpecificationImpl.java
+END
+IfcEnergyPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEnergyPropertiesImpl.java
+END
+IfcWindowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWindowImpl.java
+END
+IfcClassificationNotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationNotationImpl.java
+END
+IfcGasTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGasTerminalTypeImpl.java
+END
+IfcLoopImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLoopImpl.java
+END
+IfcClassificationReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationReferenceImpl.java
+END
+IfcMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialPropertiesImpl.java
+END
+IfcLShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLShapeProfileDefImpl.java
+END
+IfcPropertyListValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyListValueImpl.java
+END
+IfcRelAssignsToControlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssignsToControlImpl.java
+END
+IfcReinforcingElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReinforcingElementImpl.java
+END
+IfcMonetaryMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMonetaryMeasureImpl.java
+END
+IfcRepresentationItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRepresentationItemImpl.java
+END
+IfcAirTerminalBoxTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAirTerminalBoxTypeImpl.java
+END
+IfcApprovalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcApprovalImpl.java
+END
+IfcTShapeProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTShapeProfileDefImpl.java
+END
+IfcSoundValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSoundValueImpl.java
+END
+IfcMassDensityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMassDensityMeasureImpl.java
+END
+IfcSpecificHeatCapacityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpecificHeatCapacityMeasureImpl.java
+END
+IfcSpatialStructureElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpatialStructureElementImpl.java
+END
+IfcFontVariantImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFontVariantImpl.java
+END
+IfcSlippageConnectionConditionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSlippageConnectionConditionImpl.java
+END
+IfcRelContainedInSpatialStructureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelContainedInSpatialStructureImpl.java
+END
+IfcPropertyDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyDefinitionImpl.java
+END
+IfcTextureVertexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextureVertexImpl.java
+END
+IfcTelecomAddressImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTelecomAddressImpl.java
+END
+IfcDocumentElectronicFormatImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDocumentElectronicFormatImpl.java
+END
+IfcWorkScheduleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWorkScheduleImpl.java
+END
+IfcStructuralLinearActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralLinearActionImpl.java
+END
+IfcTaskImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTaskImpl.java
+END
+IfcSiteImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSiteImpl.java
+END
+IfcFlowTerminalTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowTerminalTypeImpl.java
+END
+IfcProtectiveDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProtectiveDeviceTypeImpl.java
+END
+IfcApprovalRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcApprovalRelationshipImpl.java
+END
+IfcMaterialLayerSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialLayerSetImpl.java
+END
+IfcFastenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFastenerImpl.java
+END
+IfcPresentableTextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPresentableTextImpl.java
+END
+IfcContextDependentUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcContextDependentUnitImpl.java
+END
+IfcElectricTimeControlTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricTimeControlTypeImpl.java
+END
+IfcComplexPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcComplexPropertyImpl.java
+END
+IfcPlanarForceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPlanarForceMeasureImpl.java
+END
+IfcPowerMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPowerMeasureImpl.java
+END
+IfcDraughtingPreDefinedCurveFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDraughtingPreDefinedCurveFontImpl.java
+END
+IfcConnectionCurveGeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionCurveGeometryImpl.java
+END
+IfcRelConnectsStructuralActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsStructuralActivityImpl.java
+END
+IfcStructuralActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralActivityImpl.java
+END
+IfcSurfaceStyleRefractionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleRefractionImpl.java
+END
+IfcSphereImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSphereImpl.java
+END
+IfcCurtainWallTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurtainWallTypeImpl.java
+END
+IfcWindowStyleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWindowStyleImpl.java
+END
+IfcPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPointImpl.java
+END
+IfcElectricFlowStorageDeviceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricFlowStorageDeviceTypeImpl.java
+END
+IfcMaterialDefinitionRepresentationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialDefinitionRepresentationImpl.java
+END
+IfcExternallyDefinedSymbolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExternallyDefinedSymbolImpl.java
+END
+IfcWorkPlanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWorkPlanImpl.java
+END
+IfcElectricResistanceMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricResistanceMeasureImpl.java
+END
+IfcFaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFaceImpl.java
+END
+IfcPixelTextureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPixelTextureImpl.java
+END
+IfcApplicationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcApplicationImpl.java
+END
+IfcLengthMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLengthMeasureImpl.java
+END
+IfcFurnitureStandardImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFurnitureStandardImpl.java
+END
+IfcElectricDistributionPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElectricDistributionPointImpl.java
+END
+IfcStructuralActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralActionImpl.java
+END
+IfcSurfaceStyleRenderingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleRenderingImpl.java
+END
+IfcClassificationNotationFacetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationNotationFacetImpl.java
+END
+IfcGridAxisImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGridAxisImpl.java
+END
+IfcDistributionChamberElementTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDistributionChamberElementTypeImpl.java
+END
+IfcTopologicalRepresentationItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTopologicalRepresentationItemImpl.java
+END
+IfcDraughtingPreDefinedTextFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDraughtingPreDefinedTextFontImpl.java
+END
+IfcDateAndTimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDateAndTimeImpl.java
+END
+IfcAssetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAssetImpl.java
+END
+IfcDimensionCurveDirectedCalloutImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDimensionCurveDirectedCalloutImpl.java
+END
+IfcEvaporatorTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEvaporatorTypeImpl.java
+END
+IfcControllerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcControllerTypeImpl.java
+END
+IfcCircleHollowProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCircleHollowProfileDefImpl.java
+END
+IfcTextStyleTextModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextStyleTextModelImpl.java
+END
+IfcPropertyEnumerationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPropertyEnumerationImpl.java
+END
+IfcMaterialImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMaterialImpl.java
+END
+IfcTextureMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTextureMapImpl.java
+END
+IfcEdgeLoopImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEdgeLoopImpl.java
+END
+IfcRampFlightTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRampFlightTypeImpl.java
+END
+IfcRelNestsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelNestsImpl.java
+END
+IfcStructuralMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralMemberImpl.java
+END
+IfcDoorPanelPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDoorPanelPropertiesImpl.java
+END
+IfcRelConnectsStructuralMemberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelConnectsStructuralMemberImpl.java
+END
+IfcStructuralSurfaceConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralSurfaceConnectionImpl.java
+END
+IfcExternallyDefinedTextFontImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcExternallyDefinedTextFontImpl.java
+END
+IfcReinforcementBarPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcReinforcementBarPropertiesImpl.java
+END
+IfcThermodynamicTemperatureMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcThermodynamicTemperatureMeasureImpl.java
+END
+IfcSolidAngleMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSolidAngleMeasureImpl.java
+END
+IfcMechanicalConcreteMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMechanicalConcreteMaterialPropertiesImpl.java
+END
+IfcAxis2Placement2DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAxis2Placement2DImpl.java
+END
+IfcQuantityAreaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcQuantityAreaImpl.java
+END
+IfcRightCircularConeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRightCircularConeImpl.java
+END
+IfcSurfaceStyleWithTexturesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSurfaceStyleWithTexturesImpl.java
+END
+IfcTimeSeriesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTimeSeriesImpl.java
+END
+IfcLocalTimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLocalTimeImpl.java
+END
+IfcFlowControllerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowControllerImpl.java
+END
+IfcPolygonalBoundedHalfSpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPolygonalBoundedHalfSpaceImpl.java
+END
+IfcVertexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVertexImpl.java
+END
+IfcPolyLoopImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPolyLoopImpl.java
+END
+IfcMechanicalFastenerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMechanicalFastenerTypeImpl.java
+END
+IfcElementarySurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcElementarySurfaceImpl.java
+END
+IfcSectionalAreaIntegralMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSectionalAreaIntegralMeasureImpl.java
+END
+IfcWindowLiningPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcWindowLiningPropertiesImpl.java
+END
+IfcProcedureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcProcedureImpl.java
+END
+IfcRectangleHollowProfileDefImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRectangleHollowProfileDefImpl.java
+END
+IfcFlowSegmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFlowSegmentImpl.java
+END
+IfcConicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConicImpl.java
+END
+IfcVertexBasedTextureMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcVertexBasedTextureMapImpl.java
+END
+Ifc2DCompositeCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/Ifc2DCompositeCurveImpl.java
+END
+IfcAlarmTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAlarmTypeImpl.java
+END
+IfcPointOnSurfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPointOnSurfaceImpl.java
+END
+IfcRibPlateProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRibPlateProfilePropertiesImpl.java
+END
+IfcDraughtingCalloutRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDraughtingCalloutRelationshipImpl.java
+END
+IfcLuminousIntensityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLuminousIntensityMeasureImpl.java
+END
+IfcPermeableCoveringPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPermeableCoveringPropertiesImpl.java
+END
+IfcEdgeCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEdgeCurveImpl.java
+END
+IfcGeneralProfilePropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcGeneralProfilePropertiesImpl.java
+END
+IfcRelOccupiesSpacesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelOccupiesSpacesImpl.java
+END
+IfcMechanicalSteelMaterialPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMechanicalSteelMaterialPropertiesImpl.java
+END
+IfcCoolingTowerTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCoolingTowerTypeImpl.java
+END
+IfcRelAssociatesClassificationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelAssociatesClassificationImpl.java
+END
+IfcRationalBezierCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRationalBezierCurveImpl.java
+END
+IfcLinearStiffnessMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcLinearStiffnessMeasureImpl.java
+END
+IfcFeatureElementSubtractionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFeatureElementSubtractionImpl.java
+END
+IfcConnectionSurfaceGeometryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcConnectionSurfaceGeometryImpl.java
+END
+IfcCurtainWallImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcCurtainWallImpl.java
+END
+IfcTableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcTableImpl.java
+END
+IfcAngularVelocityMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAngularVelocityMeasureImpl.java
+END
+IfcClassificationItemRelationshipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcClassificationItemRelationshipImpl.java
+END
+IfcRectangularPyramidImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRectangularPyramidImpl.java
+END
+IfcMassPerLengthMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMassPerLengthMeasureImpl.java
+END
+IfcModulusOfRotationalSubgradeReactionMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcModulusOfRotationalSubgradeReactionMeasureImpl.java
+END
+IfcBSplineCurveImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcBSplineCurveImpl.java
+END
+IfcFacetedBrepImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcFacetedBrepImpl.java
+END
+IfcStructuralCurveMemberVaryingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcStructuralCurveMemberVaryingImpl.java
+END
+IfcRelDefinesByTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcRelDefinesByTypeImpl.java
+END
+IfcEnergyConversionDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcEnergyConversionDeviceImpl.java
+END
+IfcDirectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDirectionImpl.java
+END
+IfcComplexNumberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcComplexNumberImpl.java
+END
+IfcOffsetCurve2DImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcOffsetCurve2DImpl.java
+END
+IfcPipeSegmentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcPipeSegmentTypeImpl.java
+END
+IfcSpaceThermalLoadPropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcSpaceThermalLoadPropertiesImpl.java
+END
+IfcDuctFittingTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcDuctFittingTypeImpl.java
+END
+IfcAnnotationTextOccurrenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcAnnotationTextOccurrenceImpl.java
+END
+IfcMassFlowRateMeasureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2341/trunk/Emf/generated/org/bimserver/models/ifc2x3tc1/impl/IfcMassFlowRateMeasureImpl.java
+END

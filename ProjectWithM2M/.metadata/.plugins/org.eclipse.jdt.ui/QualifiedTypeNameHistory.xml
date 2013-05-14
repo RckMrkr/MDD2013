@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bimserver.ifc.step.deserializer.IfcStepDeserializer"/>
+<fullyQualifiedTypeName name="org.bimserver.plugins.schema.SchemaDefinition"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="nl.tue.buildingsmart.emf.SchemaLoader"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.output.NullOutputStream"/>
+<fullyQualifiedTypeName name="org.bimserver.models.store.impl.ObjectTypeImpl"/>
+<fullyQualifiedTypeName name="org.bimserver.models.store.impl.StoreFactoryImpl"/>
+<fullyQualifiedTypeName name="org.bimserver.models.store.StoreFactory"/>
+<fullyQualifiedTypeName name="org.bimserver.models.store.ObjectType"/>
+<fullyQualifiedTypeName name="org.bimserver.plugins.PluginConfiguration"/>
+<fullyQualifiedTypeName name="OurPartialIFC.impl.OurPartialIFCFactoryImpl"/>
+<fullyQualifiedTypeName name="OurPartialIFC.IfcMaterial"/>
+<fullyQualifiedTypeName name="OurPartialIFC.util.OurPartialIFCValidator"/>
+<fullyQualifiedTypeName name="OurPartialIFC.util.OurPartialIFCAdapterFactory"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.ecore.EPackage"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.ecore.util.Diagnostician"/>
+<fullyQualifiedTypeName name="OurPartialIFC.IFC"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.ecore.EStructuralFeature"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.common.util.EList"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.common.util.BasicEList"/>
+<fullyQualifiedTypeName name="org.eclipse.emf.common.util.BasicDiagnostic"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="OurPartialIFC.impl.OurPartialIFCPackageImpl"/>
+<fullyQualifiedTypeName name="OurPartialIFC.OurPartialIFCFactory"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

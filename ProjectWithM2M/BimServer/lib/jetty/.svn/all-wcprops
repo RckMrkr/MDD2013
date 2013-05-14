@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty
+END
+jetty-util-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-util-8.1.9.v20130131.jar
+END
+jetty-client-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-client-8.1.9.v20130131.jar
+END
+jetty-webapp-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-webapp-8.1.9.v20130131.jar
+END
+webdefault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/webdefault.xml
+END
+jetty-http-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-http-8.1.9.v20130131.jar
+END
+jetty-rewrite-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-rewrite-8.1.9.v20130131.jar
+END
+jetty-plus-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-plus-8.1.9.v20130131.jar
+END
+jetty-jndi-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-jndi-8.1.9.v20130131.jar
+END
+jetty-servlet-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-servlet-8.1.9.v20130131.jar
+END
+jetty-websocket-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-websocket-8.1.9.v20130131.jar
+END
+jetty-deploy-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-deploy-8.1.9.v20130131.jar
+END
+jetty-annotations-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-annotations-8.1.9.v20130131.jar
+END
+jetty-jmx-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-jmx-8.1.9.v20130131.jar
+END
+jetty-policy-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-policy-8.1.9.v20130131.jar
+END
+jetty-xml-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-xml-8.1.9.v20130131.jar
+END
+jetty-overlay-deployer-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-overlay-deployer-8.1.9.v20130131.jar
+END
+servlet-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/servlet-api-3.0.jar
+END
+jetty-server-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-server-8.1.9.v20130131.jar
+END
+jetty-io-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-io-8.1.9.v20130131.jar
+END
+jetty-servlets-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-servlets-8.1.9.v20130131.jar
+END
+jetty-security-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-security-8.1.9.v20130131.jar
+END
+jetty-ajp-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-ajp-8.1.9.v20130131.jar
+END
+jetty-continuation-8.1.9.v20130131.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2376/trunk/BimServer/lib/jetty/jetty-continuation-8.1.9.v20130131.jar
+END

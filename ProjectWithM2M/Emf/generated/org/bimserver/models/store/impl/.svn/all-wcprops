@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2444/trunk/Emf/generated/org/bimserver/models/store/impl
+END
+ServicePluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServicePluginDescriptorImpl.java
+END
+FileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/FileImpl.java
+END
+RevisionSummaryContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/RevisionSummaryContainerImpl.java
+END
+SimpleDataValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/SimpleDataValueImpl.java
+END
+SerializerPluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/SerializerPluginConfigurationImpl.java
+END
+StoreFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2378/trunk/Emf/generated/org/bimserver/models/store/impl/StoreFactoryImpl.java
+END
+CompareResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/CompareResultImpl.java
+END
+VersionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/VersionImpl.java
+END
+store.ecore
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2444/trunk/Emf/generated/org/bimserver/models/store/impl/store.ecore
+END
+ArrayDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ArrayDefinitionImpl.java
+END
+ObjectRemovedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectRemovedImpl.java
+END
+ObjectAddedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectAddedImpl.java
+END
+ParameterDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2349/trunk/Emf/generated/org/bimserver/models/store/impl/ParameterDefinitionImpl.java
+END
+DeserializerPluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DeserializerPluginConfigurationImpl.java
+END
+ExtendedDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ExtendedDataImpl.java
+END
+LongActionStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/LongActionStateImpl.java
+END
+ServiceParameterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceParameterImpl.java
+END
+WebModulePluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2374/trunk/Emf/generated/org/bimserver/models/store/impl/WebModulePluginDescriptorImpl.java
+END
+ListDataValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ListDataValueImpl.java
+END
+ImmediateNotificationResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ImmediateNotificationResultImpl.java
+END
+StorePackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2444/trunk/Emf/generated/org/bimserver/models/store/impl/StorePackageImpl.java
+END
+StringTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/StringTypeImpl.java
+END
+ObjectTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectTypeImpl.java
+END
+PrimitiveTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/PrimitiveTypeImpl.java
+END
+TokenImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/TokenImpl.java
+END
+TypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/TypeImpl.java
+END
+BooleanTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/BooleanTypeImpl.java
+END
+PercentageChangeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/PercentageChangeImpl.java
+END
+RenderEnginePluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/RenderEnginePluginDescriptorImpl.java
+END
+ServerSettingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2374/trunk/Emf/generated/org/bimserver/models/store/impl/ServerSettingsImpl.java
+END
+SerializerPluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2439/trunk/Emf/generated/org/bimserver/models/store/impl/SerializerPluginDescriptorImpl.java
+END
+WebModulePluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2374/trunk/Emf/generated/org/bimserver/models/store/impl/WebModulePluginConfigurationImpl.java
+END
+TypeDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/TypeDefinitionImpl.java
+END
+JavaInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2338/trunk/Emf/generated/org/bimserver/models/store/impl/JavaInfoImpl.java
+END
+RevisionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2312/trunk/Emf/generated/org/bimserver/models/store/impl/RevisionImpl.java
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceImpl.java
+END
+LongTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/LongTypeImpl.java
+END
+CheckoutResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/CheckoutResultImpl.java
+END
+CompareItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/CompareItemImpl.java
+END
+CheckoutImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/CheckoutImpl.java
+END
+GeoTagImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/GeoTagImpl.java
+END
+DownloadResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DownloadResultImpl.java
+END
+ObjectIDMPluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectIDMPluginConfigurationImpl.java
+END
+DoubleTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DoubleTypeImpl.java
+END
+RevisionSummaryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/RevisionSummaryImpl.java
+END
+ObjectIDMPluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectIDMPluginDescriptorImpl.java
+END
+UserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/UserImpl.java
+END
+ObjectDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectDefinitionImpl.java
+END
+ModelMergerPluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ModelMergerPluginDescriptorImpl.java
+END
+ParameterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ParameterImpl.java
+END
+PrimitiveDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/PrimitiveDefinitionImpl.java
+END
+ServiceInterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2444/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceInterfaceImpl.java
+END
+ServerInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServerInfoImpl.java
+END
+ModelComparePluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ModelComparePluginDescriptorImpl.java
+END
+CompareContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/CompareContainerImpl.java
+END
+DatabaseInformationItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DatabaseInformationItemImpl.java
+END
+PluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/PluginDescriptorImpl.java
+END
+UserSettingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2387/trunk/Emf/generated/org/bimserver/models/store/impl/UserSettingsImpl.java
+END
+DeserializerPluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DeserializerPluginDescriptorImpl.java
+END
+ServiceTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceTypeImpl.java
+END
+ServiceFieldImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceFieldImpl.java
+END
+InternalServicePluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/InternalServicePluginConfigurationImpl.java
+END
+ProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ProjectImpl.java
+END
+DataValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DataValueImpl.java
+END
+DatabaseInformationCategoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DatabaseInformationCategoryImpl.java
+END
+QueryEnginePluginDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/QueryEnginePluginDescriptorImpl.java
+END
+DatabaseInformationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DatabaseInformationImpl.java
+END
+ModelComparePluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ModelComparePluginConfigurationImpl.java
+END
+RevisionSummaryTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/RevisionSummaryTypeImpl.java
+END
+RemoteServiceUpdateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/RemoteServiceUpdateImpl.java
+END
+ArrayTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ArrayTypeImpl.java
+END
+ConcreteRevisionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2234/trunk/Emf/generated/org/bimserver/models/store/impl/ConcreteRevisionImpl.java
+END
+UserSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/UserSessionImpl.java
+END
+ReferenceDataValueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ReferenceDataValueImpl.java
+END
+PluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/PluginConfigurationImpl.java
+END
+MigrationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/MigrationImpl.java
+END
+LongActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/LongActionImpl.java
+END
+ProfileDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ProfileDescriptorImpl.java
+END
+ServiceDescriptorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceDescriptorImpl.java
+END
+DataObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/DataObjectImpl.java
+END
+SystemInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2338/trunk/Emf/generated/org/bimserver/models/store/impl/SystemInfoImpl.java
+END
+ServiceMethodImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ServiceMethodImpl.java
+END
+QueryEnginePluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/QueryEnginePluginConfigurationImpl.java
+END
+ByteArrayTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2338/trunk/Emf/generated/org/bimserver/models/store/impl/ByteArrayTypeImpl.java
+END
+ObjectModifiedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ObjectModifiedImpl.java
+END
+ModelMergerPluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ModelMergerPluginConfigurationImpl.java
+END
+BimServerInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2338/trunk/Emf/generated/org/bimserver/models/store/impl/BimServerInfoImpl.java
+END
+ExtendedDataSchemaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2228/trunk/Emf/generated/org/bimserver/models/store/impl/ExtendedDataSchemaImpl.java
+END
+RenderEnginePluginConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2368/trunk/Emf/generated/org/bimserver/models/store/impl/RenderEnginePluginConfigurationImpl.java
+END

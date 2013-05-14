@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/endpoints
+END
+EndPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2381/trunk/BimServer/src/org/bimserver/endpoints/EndPoint.java
+END
+EndPointManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2376/trunk/BimServer/src/org/bimserver/endpoints/EndPointManager.java
+END

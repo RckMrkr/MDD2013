@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/json
+END
+JsonReflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2471/trunk/Shared/src/org/bimserver/shared/json/JsonReflector.java
+END
+ConvertException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2427/trunk/Shared/src/org/bimserver/shared/json/ConvertException.java
+END
+JsonConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2421/trunk/Shared/src/org/bimserver/shared/json/JsonConverter.java
+END
+ReflectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2427/trunk/Shared/src/org/bimserver/shared/json/ReflectorException.java
+END
+JsonSocketReflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2421/trunk/Shared/src/org/bimserver/shared/json/JsonSocketReflector.java
+END

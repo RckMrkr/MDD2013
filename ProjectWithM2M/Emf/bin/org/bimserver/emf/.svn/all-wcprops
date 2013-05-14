@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2472/trunk/Emf/src/org/bimserver/emf
+END
+DefaultDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2343/trunk/Emf/src/org/bimserver/emf/DefaultDelegate.java
+END
+ModelMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2325/trunk/Emf/src/org/bimserver/emf/ModelMetaData.java
+END
+IfcModelInterfaceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2427/trunk/Emf/src/org/bimserver/emf/IfcModelInterfaceException.java
+END
+IfcModelInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2472/trunk/Emf/src/org/bimserver/emf/IfcModelInterface.java
+END
+QueryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2324/trunk/Emf/src/org/bimserver/emf/QueryInterface.java
+END
+LazyLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2211/trunk/Emf/src/org/bimserver/emf/LazyLoader.java
+END
+OidProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2211/trunk/Emf/src/org/bimserver/emf/OidProvider.java
+END
+IdEObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2343/trunk/Emf/src/org/bimserver/emf/IdEObject.java
+END
+IdEObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2384/trunk/Emf/src/org/bimserver/emf/IdEObjectImpl.java
+END
+Delegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2345/trunk/Emf/src/org/bimserver/emf/Delegate.java
+END
+MetaDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2355/trunk/Emf/src/org/bimserver/emf/MetaDataManager.java
+END

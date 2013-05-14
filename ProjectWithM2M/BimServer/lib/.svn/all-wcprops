@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2459/trunk/BimServer/lib
+END
+openmali.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2089/trunk/BimServer/lib/openmali.jar
+END
+gson-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2089/trunk/BimServer/lib/gson-2.2.2.jar
+END
+classmexer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2273/trunk/BimServer/lib/classmexer.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2097/trunk/BimServer/lib/javassist.jar
+END
+xmlbeans-qname.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/927/trunk/BimServer/lib/xmlbeans-qname.jar
+END
+jna.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/947/trunk/BimServer/lib/jna.jar
+END
+joda-time-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/533/trunk/BimServer/lib/joda-time-1.6.jar
+END
+antlr-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/927/trunk/BimServer/lib/antlr-3.1.1.jar
+END
+guava-13.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1954/trunk/BimServer/lib/guava-13.0.1.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/533/trunk/BimServer/lib/mail.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/533/trunk/BimServer/lib/jdom-1.0.jar
+END
+je-5.0.73.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2418/trunk/BimServer/lib/je-5.0.73.jar
+END
+tar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/533/trunk/BimServer/lib/tar.jar
+END
+cors-filter-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2390/trunk/BimServer/lib/cors-filter-1.5.jar
+END
+xbean.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/927/trunk/BimServer/lib/xbean.jar
+END
+rome-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/533/trunk/BimServer/lib/rome-1.0.jar
+END
+java-getopt-1.0.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/927/trunk/BimServer/lib/java-getopt-1.0.13.jar
+END
+xmlpublic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/927/trunk/BimServer/lib/xmlpublic.jar
+END
+antlr-3.1.1-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/927/trunk/BimServer/lib/antlr-3.1.1-runtime.jar
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/927/trunk/BimServer/lib/jsr173_1.0_api.jar
+END
+junit-4.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1043/trunk/BimServer/lib/junit-4.8.2.jar
+END
+xbean_xpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/927/trunk/BimServer/lib/xbean_xpath.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/533/trunk/BimServer/lib/activation.jar
+END
+ifcNamespaces.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/927/trunk/BimServer/lib/ifcNamespaces.jar
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/927/trunk/BimServer/lib/resolver.jar
+END
+stringtemplate-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/927/trunk/BimServer/lib/stringtemplate-3.2.jar
+END
+protocolbuffers2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2441/trunk/BimServer/lib/protocolbuffers2.5.jar
+END

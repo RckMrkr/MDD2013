@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2473/trunk/BimServerClientLib/src/org/bimserver/client
+END
+DirectBimServerClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/DirectBimServerClientFactory.java
+END
+ClientIfcModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2473/trunk/BimServerClientLib/src/org/bimserver/client/ClientIfcModel.java
+END
+DirectChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2473/trunk/BimServerClientLib/src/org/bimserver/client/DirectChannel.java
+END
+BimServerClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2299/trunk/BimServerClientLib/src/org/bimserver/client/BimServerClientFactory.java
+END
+ChannelConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2427/trunk/BimServerClientLib/src/org/bimserver/client/ChannelConnectionException.java
+END
+AnonymousAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2285/trunk/BimServerClientLib/src/org/bimserver/client/AnonymousAuthentication.java
+END
+SimpleTokenHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2273/trunk/BimServerClientLib/src/org/bimserver/client/SimpleTokenHolder.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2473/trunk/BimServerClientLib/src/org/bimserver/client/Channel.java
+END
+AbstractBimServerClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2457/trunk/BimServerClientLib/src/org/bimserver/client/AbstractBimServerClientFactory.java
+END
+ClientDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2447/trunk/BimServerClientLib/src/org/bimserver/client/ClientDelegate.java
+END
+BimServerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2473/trunk/BimServerClientLib/src/org/bimserver/client/BimServerClient.java
+END

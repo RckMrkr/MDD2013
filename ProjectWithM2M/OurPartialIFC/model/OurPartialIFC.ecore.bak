@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="OurPartialIFC" nsURI="platform:/resource/OurPartialIFC/model/OurPartialIFC.ecore"
+    nsPrefix="OurPartialIFC">
+  <eClassifiers xsi:type="ecore:EClass" name="IFC">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="materials" upperBound="-1"
+        eType="#//IfcMaterialSelect" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="materialAssociation" upperBound="-1"
+        eType="#//IfcRelAssociatesMaterial" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="elements" upperBound="-1"
+        eType="#//IfcRoot" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcRelAssociatesMaterial" eSuperTypes="#//Identifiable">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="elements" lowerBound="1"
+        upperBound="-1" eType="#//IfcRoot"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="material" lowerBound="1"
+        eType="#//IfcMaterialSelect"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcMaterialSelect" abstract="true" interface="true"
+      eSuperTypes="#//Identifiable"/>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcElement" eSuperTypes="#//Identifiable #//IfcRoot"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Identifiable" abstract="true" interface="true">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="ID" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//ELong"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcMaterial" eSuperTypes="#//IfcMaterialSelect">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcElementType" eSuperTypes="#//IfcRoot"/>
+  <eClassifiers xsi:type="ecore:EClass" name="IfcRoot" abstract="true" interface="true"
+      eSuperTypes="#//Identifiable"/>
+</ecore:EPackage>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/json
+END
+JsonBimServerClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/json/JsonBimServerClientFactory.java
+END
+JsonSocketReflectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/json/JsonSocketReflectorFactory.java
+END
+JsonChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/json/JsonChannel.java
+END
+JsonReflectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/json/JsonReflectorFactory.java
+END

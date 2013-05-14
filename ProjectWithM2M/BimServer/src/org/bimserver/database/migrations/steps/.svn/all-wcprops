@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2444/trunk/BimServer/src/org/bimserver/database/migrations/steps
+END
+IFC2X3_TC1.ecore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2355/trunk/BimServer/src/org/bimserver/database/migrations/steps/IFC2X3_TC1.ecore
+END
+IFC2X4_RC3.ecore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1850/trunk/BimServer/src/org/bimserver/database/migrations/steps/IFC2X4_RC3.ecore
+END
+Step0000.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2444/trunk/BimServer/src/org/bimserver/database/migrations/steps/Step0000.java
+END
+Step0001.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2343/trunk/BimServer/src/org/bimserver/database/migrations/steps/Step0001.java
+END
+Step0002.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2384/trunk/BimServer/src/org/bimserver/database/migrations/steps/Step0002.java
+END

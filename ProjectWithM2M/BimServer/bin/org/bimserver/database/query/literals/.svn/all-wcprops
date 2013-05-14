@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/literals
+END
+EnumLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/literals/EnumLiteral.java
+END
+StringLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/literals/StringLiteral.java
+END
+IntegerLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/literals/IntegerLiteral.java
+END
+BooleanLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/database/query/literals/BooleanLiteral.java
+END

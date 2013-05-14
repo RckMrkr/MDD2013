@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/tools/generators
+END
+AdaptorGeneratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2421/trunk/BimServer/src/org/bimserver/tools/generators/AdaptorGeneratorWrapper.java
+END
+SConverterGeneratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/SConverterGeneratorWrapper.java
+END
+CopyAdminInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2471/trunk/BimServer/src/org/bimserver/tools/generators/CopyAdminInterface.java
+END
+ProtocolBuffersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2464/trunk/BimServer/src/org/bimserver/tools/generators/ProtocolBuffersGenerator.java
+END
+ImportManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/ImportManager.java
+END
+SPackageGeneratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/SPackageGeneratorWrapper.java
+END
+DataObjectGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/DataObjectGenerator.java
+END
+DataObjectGeneratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/DataObjectGeneratorWrapper.java
+END
+SServiceGeneratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2286/trunk/BimServer/src/org/bimserver/tools/generators/SServiceGeneratorWrapper.java
+END
+GenerateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/tools/generators/GenerateUtils.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers
+END
+PluginInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/PluginInterface.proto
+END
+ServiceInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/ServiceInterface.proto
+END
+SettingsInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/SettingsInterface.proto
+END
+MetaInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/MetaInterface.desc
+END
+AuthInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/AuthInterface.proto
+END
+NotificationInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/NotificationInterface.desc
+END
+AdminInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/AdminInterface.desc
+END
+LowLevelInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/LowLevelInterface.desc
+END
+ProtocolBuffersChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/ProtocolBuffersChannel.java
+END
+RegistryInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/RegistryInterface.proto
+END
+PluginInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/PluginInterface.desc
+END
+SettingsInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/SettingsInterface.desc
+END
+ServiceInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/ServiceInterface.desc
+END
+AuthInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/AuthInterface.desc
+END
+RemoteServiceInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/RemoteServiceInterface.proto
+END
+ProtocolBuffersBimServerClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/ProtocolBuffersBimServerClientFactory.java
+END
+RegistryInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/RegistryInterface.desc
+END
+MetaInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/MetaInterface.proto
+END
+NotificationInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/NotificationInterface.proto
+END
+RemoteServiceInterface.desc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/RemoteServiceInterface.desc
+END
+AdminInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2471/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/AdminInterface.proto
+END
+LowLevelInterface.proto
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2464/trunk/BimServerClientLib/src/org/bimserver/client/protocolbuffers/LowLevelInterface.proto
+END

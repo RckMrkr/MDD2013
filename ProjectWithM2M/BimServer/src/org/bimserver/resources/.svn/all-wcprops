@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/resources
+END
+WarResourceFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/resources/WarResourceFetcher.java
+END
+JarResourceFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/resources/JarResourceFetcher.java
+END

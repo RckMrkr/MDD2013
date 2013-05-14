@@ -1,0 +1,14 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('ViewDefinition [CoordinationView]'),'2;1');
+FILE_NAME('0001','2011-09-07T12:28:29',(''),(''),'Autodesk Revit Architecture 2011 - 1.0','20100326_1700 (Solibri IFC Optimizer)','');
+FILE_SCHEMA(('IFC2X3'));
+ENDSEC;
+DATA;
+#1=IFCOWNERHISTORY(#2,#3,$,.NOCHANGE.,$,$,$,0);
+#2=IFCPERSONANDORGANIZATION(#4,#5,$);
+#3=IFCAPPLICATION(#8219,'2011','Autodesk Revit Architecture 2011','Revit');
+#4=IFCPERSON($,$,'cskender',$,$,$,$,$);
+#5=IFCORGANIZATION($,'','',$,$);
+ENDSEC;
+END-ISO-10303-21;

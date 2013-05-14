@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2471/trunk/BimServer/www
+END
+migrations.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2424/trunk/BimServer/www/migrations.html
+END
+plugins.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2424/trunk/BimServer/www/plugins.html
+END
+serverinfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2471/trunk/BimServer/www/serverinfo.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2450/trunk/BimServer/www/main.html
+END
+serversettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2424/trunk/BimServer/www/serversettings.html
+END
+dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2424/trunk/BimServer/www/dashboard.html
+END
+basicserversettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2424/trunk/BimServer/www/basicserversettings.html
+END
+addnewextendeddataschema.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2424/trunk/BimServer/www/addnewextendeddataschema.html
+END
+extendeddataschemas.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2424/trunk/BimServer/www/extendeddataschemas.html
+END
+setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2424/trunk/BimServer/www/setup.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2450/trunk/BimServer/www/index.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2424/trunk/BimServer/www/login.html
+END
+json.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2471/trunk/BimServer/www/json.html
+END
+addrepoextendeddataschema.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2424/trunk/BimServer/www/addrepoextendeddataschema.html
+END
+extendeddataschema.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2424/trunk/BimServer/www/extendeddataschema.html
+END

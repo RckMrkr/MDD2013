@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/templating
+END
+TemplateEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/templating/TemplateEngine.java
+END
+TemplateIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2208/trunk/BimServer/src/org/bimserver/templating/TemplateIdentifier.java
+END
